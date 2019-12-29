@@ -1,0 +1,5282 @@
+﻿keywords,sum_paper
+information systems,94
+computer science,65
+indonesia,57
+knowledge management,46
+e-government,39
+artificial intelligence,34
+e-learning,33
+ontology,33
+algorithms,33
+learning systems,30
+big data,29
+deep learning,26
+semantic web,26
+data mining,25
+social media,24
+systematic literature review,22
+e-commerce,21
+classification,21
+twitter,21
+neural networks,21
+machine learning,20
+information retrieval,20
+security of data,19
+trust,17
+sem,17
+feature extraction,17
+semantics,17
+vector quantization,17
+tam,16
+pls-sem,16
+pls,16
+particle swarm optimization (pso),16
+sentiment analysis,15
+information use,15
+optimization,15
+computer simulation,15
+neural network,14
+cloud computing,14
+logic programming,14
+classification (of information),14
+computational linguistics,13
+service quality,13
+ahp,13
+linguistics,13
+access control,13
+natural language processing systems,13
+it governance,12
+purchase intention,12
+information quality,12
+information security,12
+adoption,12
+evaluation,12
+time series,12
+critical success factors,11
+robots,11
+generalized learning vector quantization,11
+data integration,10
+visualization,10
+knowledge sharing,10
+e-business,10
+smes,10
+birds,10
+description logic,10
+remote sensing,10
+query expansion,10
+translation (languages),10
+analytic hierarchy process,9
+knowledge,9
+learning,9
+capability,9
+support vector machine,9
+entropy,9
+information technology,9
+framework,9
+social networking (online),9
+information management,9
+ontology design,9
+conditional random field,9
+pattern recognition,9
+svm,9
+electrocardiography,9
+knowledge management system,9
+model,8
+instagram,8
+erp,8
+security,8
+surveys,8
+knowledge representation,8
+data handling,8
+social sciences,8
+principal component analysis,8
+decision trees,8
+research,8
+problem solving,8
+soft system methodology,8
+forecasting,8
+metacognition,8
+self-regulated learning,8
+content analysis,8
+digital libraries,8
+cross-language evaluation forums,8
+cross-language information retrieval,8
+natural language processing,7
+indonesian languages,7
+speech recognition,7
+maturity level,7
+critical success factor,7
+hospital information system,7
+systematic review,7
+motivation,7
+technology acceptance model,7
+user acceptance,7
+social commerce,7
+innovation,7
+education,7
+websites,7
+enterprise resource planning,7
+graphic methods,7
+data description,7
+web ontology language,7
+m2m,7
+named entity recognition,7
+text mining,7
+support vector machines,7
+image segmentation,7
+government data processing,7
+odors,7
+extreme learning machine,7
+iot,7
+sensors,7
+user experience,7
+interaction design,7
+fpga,7
+odor source localization,7
+structural equation modeling,6
+mobile application,6
+e-participation,6
+intention to use,6
+personalization,6
+continuance intention,6
+genetic algorithm,6
+latent dirichlet allocation,6
+partial least square,6
+architecture,6
+naïve bayes,6
+enterprise architecture,6
+machine translations,6
+machine translation,6
+retrieval performance,6
+software product line,6
+user interfaces,6
+formal languages,6
+decision making,6
+text processing,6
+convolutional neural network,6
+government human capital management,6
+vehicle detection,6
+cloud,6
+usability evaluation,6
+association rules,6
+computer vision,6
+usability testing,6
+mobile robots,6
+query expansion techniques,6
+implementation,5
+analytical hierarchy process,5
+attitude,5
+gamification,5
+systematic literature review (slr),5
+higher education,5
+repurchase intention,5
+data management,5
+k-means,5
+component,5
+strategy,5
+business process model,5
+information services,5
+industry,5
+business process,5
+project management,5
+rule based,5
+database systems,5
+modeling languages,5
+software design,5
+computer software,5
+reverse engineering,5
+dbpedia,5
+metadata,5
+traffic congestion,5
+query answering,5
+computational complexity,5
+authentication,5
+digital storage,5
+cryptography,5
+network security,5
+convolutional neural networks,5
+sleep stage classification,5
+long short-term memory,5
+face recognition,5
+pca,5
+data compression,5
+diseases,5
+imbalanced data,5
+backpropagation,5
+scheduling,5
+state of the art,5
+computation theory,5
+lethal autonomous,5
+knowledge acquisition,5
+mathematical models,5
+information analysis,5
+prediction,5
+vehicles,5
+clustering,5
+cluster analysis,5
+fuzzy logic,5
+image processing,5
+collaborative learning,5
+learning style,5
+data structures,5
+design,5
+software engineering,5
+semantic segmentation,5
+engineering design,5
+enhanced guided notes,5
+decision tree,5
+image reconstruction,5
+ecg,5
+learning vector quantization,5
+ellipse detection,5
+emotion recognition,5
+particle swarm optimization,5
+indonesians,4
+awareness,4
+technology adoption,4
+system quality,4
+toe,4
+master data management,4
+prototype,4
+importance performance analysis,4
+satisfaction,4
+csf,4
+data warehouse,4
+success factor,4
+hospital,4
+analytic hierarchy process (ahp),4
+tourism,4
+mobile payment,4
+swot analysis,4
+social cognitive theory,4
+cnn,4
+human resource management,4
+feature selection,4
+slr,4
+csfs,4
+utaut,4
+students,4
+website quality,4
+quality control,4
+electronic commerce,4
+small and medium enterprises,4
+sme,4
+computer aided language translation,4
+organizational culture,4
+indonesian,4
+parallel corpora,4
+expert systems,4
+network routing,4
+spark,4
+recommender system,4
+geographic information systems,4
+axiomatization,4
+ontology engineering,4
+ontology patterns,4
+jakarta,4
+self organizing maps,4
+query languages,4
+internet of things,4
+computers,4
+question answering system,4
+machine learning approaches,4
+affective computing,4
+human computer interaction,4
+extraction,4
+xgboost,4
+random processes,4
+evolutionary algorithms,4
+algorithm,4
+human,4
+humans,4
+trees (mathematics),4
+e-governments,4
+image enhancement,4
+e-livestock,4
+feature extraction methods,4
+gaussian mixture model,4
+meta-ethnography,4
+wavelet transform,4
+object recognition,4
+data sets,4
+ecg signals,4
+k-means clustering,4
+odor recognition system,4
+constraint theory,4
+data reduction,4
+application programs,4
+knowledge base,4
+teaching,4
+abduction,4
+morality,4
+game theory,4
+philosophical aspects,4
+computer aided instruction,4
+network protocols,4
+systems analysis,4
+fimt-dd,4
+wikipedia,4
+social network analysis,4
+smart city,4
+cobit 5,4
+prisma,4
+statistics,4
+simulation environment,4
+geometry,4
+hardware,4
+forestry,4
+literature studies,4
+expert judgment,4
+maturity,4
+km readiness,4
+knowledge management strategy,4
+human capital,4
+ocai,4
+knowledge management process,4
+behavioral intention,4
+usability,4
+reliability,4
+competitive advantage,4
+self-organizing map,4
+self-organizing maps,4
+n-gram,4
+lstm,4
+query processing,4
+data completeness,4
+online transportation,4
+pedagogical agent,4
+community of inquiry,4
+scele,4
+learning contents,4
+personalizations,4
+student-centered learning,4
+runge kutta methods,4
+similarity measure,4
+scattering media,4
+sleep research,4
+pattern recognition systems,4
+robotics,4
+hough transforms,4
+modified particle swarm optimization,4
+electrocardiogram,4
+certificate policy,4
+facial expression recognition,4
+facial expression,4
+particle filter,4
+feature extraction and classification,4
+classification system,4
+erp implementation success,4
+syntactics,3
+artificial neural network,3
+word embedding,3
+readiness,3
+gap analysis,3
+quality function deployment,3
+regression analysis,3
+security awareness,3
+data quality,3
+md3m,3
+customer satisfaction,3
+perceived risk,3
+perceived usefulness,3
+structural equation modelling,3
+opportunity,3
+benefits,3
+business intelligence,3
+sales,3
+e-marketplace,3
+dmbok,3
+barriers,3
+acceptance factor,3
+intention,3
+pap smear images,3
+convolution,3
+amos,3
+e-payment,3
+rfid,3
+odoo,3
+literature review,3
+fuzzy,3
+software development,3
+e-procurement,3
+is success model,3
+acceptance,3
+structural equational modeling,3
+social crm,3
+crm,3
+partial least squares,3
+topsis,3
+risk,3
+virtual community,3
+perceived quality,3
+commerce,3
+e-wom,3
+technology,3
+small and medium enterprise,3
+social networks,3
+risk management,3
+information theory,3
+speech transmission,3
+information system,3
+organizational performance,3
+computer architecture,3
+distributed computer systems,3
+software product line (spl),3
+behavioral specification,3
+community detection,3
+monte carlo methods,3
+domain experts,3
+tensorflow,3
+real-world,3
+knowledge engineering,3
+plug-ins,3
+ontology design pattern,3
+decision support systems,3
+linked datum,3
+alignment,3
+world wide web,3
+new approaches,3
+traffic jams,3
+traffic signals,3
+security system,3
+software development process,3
+job search,3
+user model,3
+indonesian language,3
+information extraction,3
+sequence labeling,3
+naive bayes,3
+recurrent neural networks,3
+advice mining,3
+data privacy,3
+graph theory,3
+risk analysis,3
+heuristic methods,3
+location,3
+polysomnography,3
+land cover,3
+random forest,3
+bidirectional long short-term memory,3
+deep belief networks,3
+detection,3
+transfer learning,3
+gesture recognition,3
+government human capital,3
+knowledge management model,3
+brain,3
+pixels,3
+precision and recall,3
+cross validation,3
+mahalanobis,3
+wavelet,3
+breast cancer,3
+ecg compression,3
+set partitioning in hierarchical trees (spiht),3
+challenges,3
+definition,3
+hermeneutic,3
+feature extraction and selection,3
+number of clusters,3
+mathematical transformations,3
+knowledge based systems,3
+computer circuits,3
+computer programming,3
+moral reasoning,3
+formal logic,3
+intelligent systems,3
+data stream,3
+gpu,3
+carbon dioxide,3
+monitoring,3
+sensor nodes,3
+wireless sensor networks,3
+monitoring system,3
+euclidean distance,3
+fuzzy systems,3
+genetic algorithms,3
+information credibility,3
+e-tourism,3
+conceptual model,3
+bitcoin,3
+regulation,3
+hadoop,3
+dna profile,3
+similarity,3
+fuzzy inference,3
+multiple kernel learning,3
+machine learning methods,3
+time series forecasting,3
+time-series data,3
+scrum,3
+thematic analysis,3
+features,3
+e-portfolio,3
+marketplace,3
+intelligent buildings,3
+automation,3
+open dynamics engines,3
+communication,3
+telecommunication networks,3
+speech analysis,3
+character level,3
+passage retrieval,3
+sign language,3
+knowledge mapping,3
+markov processes,3
+agile software development,3
+interoperability,3
+ict,3
+learning process,3
+go-jek,3
+mobile commerce,3
+system usability scale,3
+factor analysis,3
+combination,3
+competition,3
+partial least square (pls),3
+togaf,3
+word segmentation,3
+dynamic environment,3
+summarization,3
+cyber security,3
+query completeness,3
+rdf,3
+sparql,3
+enterprise resource planning (erp),3
+learning management system,3
+learning type,3
+moodle,3
+online learning,3
+online discussion,3
+information and communication technology,3
+open education,3
+complex network,3
+indonesia open educational resources,3
+online,3
+learning algorithms,3
+adaptive learning,3
+electric circuit,3
+signal processing,3
+artificial neural networks,3
+general linear methods,3
+stability preserving,3
+hate speech detection,3
+ner,3
+text classification,3
+marketing,3
+recommendation system,3
+collaborative filtering,3
+non-parametric,3
+training and testing,3
+data preprocessing,3
+sleep stage,3
+question answering task,3
+association rules mining,3
+time-to-contact,3
+sleep stages classifications,3
+speech,3
+structural fatigue,3
+action recognition,3
+denoising,3
+visual tracking,3
+classification results,3
+arrhythmia,3
+pso,3
+hierarchical systems,3
+image analysis,3
+artificial odor discrimination system,3
+polarity,3
+parallel corpus,3
+retrieval effectiveness,3
+image retrieval,3
+glvq,3
+fetal monitoring,3
+fetal head,3
+codebooks,3
+clustering algorithms,3
+ultrasound images,3
+ultrasonic applications,3
+control systems,3
+traffic signal control system,3
+galois field,3
+vhdl,3
+human bodies,3
+heart beats,3
+multiple odor sources localization,3
+dynamic environments,3
+information sharing,3
+regression,3
+public key infrastructure,3
+active appearance model,3
+scientometrics,3
+vectors,3
+embryo,3
+odor distribution,3
+data governance,3
+certification practice statement,3
+cp,3
+cps,3
+part-of-speech tagging,2
+word embeddings,2
+training process,2
+impulse buying,2
+stickiness,2
+barrier,2
+primary health care,2
+effectiveness,2
+batan,2
+maturity model,2
+perceived ease of use,2
+social influence,2
+pedagogy,2
+personalized e-learning,2
+ucd,2
+semantic similarity,2
+facebook,2
+privacy concern,2
+interpretive structural model,2
+social media strategy,2
+weakness,2
+hospitals,2
+cervical cancer,2
+neural network (nn),2
+government agency,2
+data architecture,2
+university,2
+open government data,2
+strategies,2
+developing country,2
+information security awareness,2
+gig economy,2
+gig worker,2
+online marketplace,2
+quality,2
+task-technology fit,2
+c2c,2
+tpe framework,2
+intention to participate,2
+open data,2
+inflammatory cells,2
+bayesian,2
+external factors,2
+tpb,2
+accounting,2
+critical factors,2
+technology acceptance model (tam),2
+lkpp,2
+consumer behavior,2
+perceived value,2
+customer relationship management (crm),2
+factors,2
+sem-pls,2
+dematel,2
+inhibiting factors,2
+task technology fit,2
+case study,2
+kmcsf,2
+audit,2
+technology acceptance,2
+interpersonal trust,2
+e-audit,2
+developing countries,2
+sustainability,2
+business processes,2
+itil,2
+opportunities,2
+knowledge management systems,2
+organisational performance,2
+saas,2
+software as a service,2
+institutional theory,2
+healthcare,2
+hospital service quality,2
+patient,2
+perception,2
+web portal,2
+customer relationship management,2
+user satisfaction,2
+project-based learning,2
+social enterprise,2
+delone & mclean,2
+benefit,2
+cost,2
+online community,2
+ease of use,2
+education computing,2
+virtual reality,2
+e-commerce websites,2
+e-marketplaces,2
+conceptual frameworks,2
+information adoption,2
+success factors,2
+small medium enterprise,2
+linguistic knowledge,2
+impact analysis,2
+business benefit,2
+erp benefit,2
+resource management,2
+automatic,2
+antecedent factors,2
+utilization model,2
+histogram,2
+image clustering,2
+resource allocation,2
+peer to peer networks,2
+delta-oriented programming,2
+information system development,2
+constraint satisfaction problems,2
+feature combination,2
+abstract behavioral specification,2
+open source software,2
+complex system,2
+comprehension,2
+decomposition,2
+diagram,2
+level of abstraction,2
+traffic control,2
+verification,2
+implementation strategy,2
+knowledge graphs,2
+cluster,2
+assessment,2
+complex relationships,2
+modular ontologies,2
+accreditation,2
+logical statements,2
+theoretical development,2
+material transformation,2
+sustainable development,2
+geosciences,2
+ontology model,2
+linked data,2
+ontology design patterns,2
+model problems,2
+life cycle,2
+building blockes,2
+national science foundations,2
+oceanography,2
+owl,2
+dl-safe rules,2
+datalog,2
+interchange formats,2
+computability and decidability,2
+rule-based approach,2
+circumscription,2
+tractability,2
+self organizing,2
+inverse problems,2
+decision theory,2
+quality functional deployment,2
+user behavior,2
+precision,2
+relation extraction,2
+character recognition,2
+binary classification,2
+recurrent neural network (rnns),2
+sentence classifications,2
+computational model,2
+e-learning application,2
+opinion mining,2
+digital documents,2
+provenance security,2
+database encryption,2
+access control models,2
+causal relationships,2
+directed acyclic graph model,2
+path-based,2
+directed acyclic graph (dag),2
+directed graphs,2
+meta-heuristic approach,2
+interpolation,2
+stochastic systems,2
+remote sensing technology,2
+support vector regression (svr),2
+image resolution,2
+synthetic aperture radar,2
+cross correlations,2
+mining,2
+hierarchical attention network,2
+sleep stages,2
+feature representation,2
+socio-economic factor,2
+diabetic retinopathy,2
+fundus images,2
+lbp,2
+eeg,2
+stroke,2
+gis,2
+simulated annealing,2
+brain mapping,2
+heuristics,2
+neural networks (computer),2
+stereo vision,2
+batik,2
+motif,2
+human sperm,2
+search window,2
+ssamc,2
+convolutional neural networks (cnn),2
+gray level co-occurrence matrix (glcm),2
+hough transform,2
+sift,2
+quantitative evaluation,2
+computation time,2
+decision tree method,2
+edge detection,2
+three dimensional,2
+complex background,2
+pattern matching,2
+feature descriptors,2
+cellular automata,2
+medical imaging,2
+diagnosis,2
+multirate signal processing,2
+canny edge detection,2
+classification accuracy,2
+cultural heritages,2
+performance comparison,2
+musculoskeletal system,2
+distribution functions,2
+performance analysis,2
+e-government systems,2
+social interactions,2
+soft systems methodology,2
+geographic information system,2
+change detection,2
+hyperspectral,2
+data acquisition,2
+comparative study,2
+intelligent agents,2
+prolog (programming language),2
+proof of concept,2
+graphical user interfaces,2
+computational logic,2
+computational morality,2
+cooperation,2
+promote cooperation,2
+dual process,2
+argumentation,2
+deliberative reasoning,2
+emergence,2
+reactive behavior,2
+autonomous agents,2
+abductive logic programming,2
+tabled abduction,2
+incremental tabling,2
+logic program updates,2
+on-machines,2
+chemical sensors,2
+odor discrimination system,2
+texture feature,2
+activation function,2
+formatting,2
+insert,2
+style,2
+styling,2
+correlation methods,2
+positive correlations,2
+remote monitoring,2
+intelligent transportation system (its),2
+algal growth,2
+microalgae,2
+hole filling algorithm,2
+euclidean distance methods,2
+vehicle speed measurement,2
+closed circuit television,2
+video recording,2
+intelligent vehicle highway systems,2
+fitness functions,2
+crowdfunding,2
+peer-to-peer lending,2
+categorization,2
+mobile learning,2
+management,2
+contingency factors,2
+key management,2
+local cloud,2
+context awareness,2
+delegation,2
+stanford ner,2
+name entity recognition,2
+identification,2
+str-dna,2
+probability density function,2
+forecast combination,2
+survey,2
+tacit knowledge,2
+document management system,2
+unified theory of acceptance and use of technology,2
+it investment,2
+online training system,2
+ranti's generic is/it business value,2
+e-voting,2
+e-commerce adoption,2
+smart government,2
+e-service quality,2
+smart homes,2
+communication towers,2
+coverage area,2
+disaster areas,2
+multiple source,2
+network expansion,2
+research fields,2
+robot formation,2
+expansion,2
+autonomous mobile robot,2
+computer systems programming,2
+it alignment,2
+maximum entropy methods,2
+set theory,2
+job scheduling,2
+memory architecture,2
+information dissemination,2
+language model,2
+word accuracies,2
+skeleton extraction,2
+mapping,2
+e-government applications,2
+metacognitives,2
+literature reviews,2
+academic,2
+customer knowledge management,2
+improvement,2
+government,2
+individual acceptance,2
+knowledge management implementations,2
+top management support,2
+local government,2
+expectation-confirmation model (ecm),2
+conscientiousness,2
+extraversion,2
+learning goals,2
+expert judgement,2
+e-hajj,2
+pearson correlation analysis,2
+agile,2
+development,2
+knowledge-based system,2
+knowledge management readiness,2
+measurement,2
+qualitative,2
+externalization,2
+internalization,2
+socialization,2
+socio-technical,2
+fahp,2
+automatic detection,2
+organizational cultures,2
+schema,2
+human capital management,2
+correspondence analysis,2
+traditional knowledge,2
+application,2
+e-health,2
+management information systems,2
+e-government implementation,2
+key success factors,2
+temporal clustering,2
+change analysis,2
+temporal cluster analysis,2
+visual data exploration,2
+conformal mapping,2
+temporal data,2
+emoji,2
+javanese character,2
+logical reasoning,2
+probabilistic reasoning,2
+bayesian network,2
+government agencies,2
+reusability,2
+computer aided software engineering,2
+recurrent neural network,2
+sibi,2
+hidden markov model,2
+discrete cosine transforms,2
+tools,2
+discrete cosine transform(dct),2
+microsoft kinect,2
+non-factoid queries,2
+ncs,2
+wikidata,2
+rdf data,2
+hashtag,2
+branchless banking,2
+grab,2
+m-commerce,2
+network topology,2
+ux aspects,2
+information system strategic planning,2
+strategic alignment maturity model,2
+cognitive apprenticeship,2
+online discussion forum,2
+ict utilization,2
+sisp,2
+learning analytics,2
+personalized learning,2
+knowledge ability,2
+learning management system (lms),2
+distance education,2
+mooc,2
+learning objectives,2
+prototyping,2
+mobile devices,2
+roadmap,2
+learning materials,2
+open educational resources,2
+utilizing ict,2
+school,2
+dashboard,2
+metric,2
+knowledge abilities,2
+user experience questionnaire,2
+computer self-efficacy,2
+self-monitoring,2
+electric circuit concepts,2
+collaborative note-taking,2
+online systems,2
+probabilistic neural network,2
+clutter,2
+power plant,2
+primary radar system,2
+radar cross section,2
+reflection,2
+wind turbine,2
+cross-ambiguity function,2
+passive coherent locations,2
+single frequency networks,2
+parallel processing systems,2
+network,2
+vehicle classification,2
+building dataset,2
+noise reduction,2
+web crawler,2
+testing,2
+hate speech,2
+strategic planning,2
+digital marketing,2
+open-trip,2
+item similarity,2
+lexicon,2
+recommender systems,2
+ensemble,2
+forecasting methods,2
+statistical tests,2
+latent semantic indexing,2
+weighted averages,2
+training sets,2
+singular value decomposition,2
+relevant documents,2
+systems engineering,2
+semantic keyword selection,2
+video annotation,2
+encoding (symbols),2
+children with autisms,2
+differentiable neural computer,2
+sequence,2
+visual languages,2
+high quality,2
+multivariate regression,2
+restricted boltzmann machine,2
+autoencoder,2
+sequential,2
+data representations,2
+kernel based learner,2
+modis,2
+paddy growth stages,2
+phenology,2
+consumer electronics,2
+motion estimation,2
+human motion analysis,2
+complex networks,2
+tracking (position),2
+al-fath,2
+odor source,2
+transparent surfaces,2
+shape-from-shading,2
+photometry,2
+spectrum analysis,2
+dimensionality reduction,2
+statistical methods,2
+fuzzy learning vector quantizations,2
+automatic question answering,2
+question answering,2
+question answering systems,2
+subjectivity,2
+analogical reasoning,2
+named entities,2
+geographic information retrieval,2
+statistical techniques,2
+bilingual tasks,2
+cross language information retrieval,2
+language resources,2
+transitive translation,2
+web tasks,2
+computer programming languages,2
+web retrieval,2
+query expansion.,2
+image features,2
+query translations,2
+clustering methods,2
+intelligent k-means,2
+data dimensions,2
+data distribution,2
+biomedical fields,2
+clustering approach,2
+telehealth,2
+automated system,2
+ultrasound,2
+adaptive boosting,2
+image classification,2
+better performance,2
+randomized hough transform,2
+fetal head detection,2
+random forests,2
+unmanned aerial vehicles (uav),2
+optimization algorithms,2
+robot operating systems (ros),2
+arrhythmia classification,2
+flvq,2
+vehicle counting,2
+kalman filters,2
+multi-object tracking,2
+scientific workflow,2
+real time,2
+training,2
+structural equation modeling (sem),2
+iterative methods,2
+requirement engineering,2
+galos field,2
+reed solomon,2
+rijndael cipher,2
+compression,2
+field programmable gate arrays (fpga),2
+mammals,2
+in-vitro,2
+detection zones,2
+traffic sensors,2
+emergency traffic control,2
+mouse liver,2
+anesthetics,2
+trichloroethylene,2
+back-propagation,2
+parallel search,2
+statistical analysis,2
+advection-diffusion,2
+brand trust,2
+fuzzy-ahp,2
+analysis,2
+word-based model,2
+burrows-wheeler transform,2
+entropy coding,2
+dbms,2
+mongodb,2
+mysql,2
+database,2
+quality of service,2
+classification tasks,2
+autonomous system,2
+vanet,2
+gene expression,2
+multimodal dbm,2
+rbm,2
+numerical methods,2
+telecommunication traffic,2
+computer networks,2
+numerical analysis,2
+bioinformatics,2
+grid systems,2
+membrane computing,2
+rewrite rules,2
+generative adversarial network,2
+aam,2
+social signal processing,2
+human emotion recognition,2
+annotated suffix tree,2
+conditional random fields,2
+amglvq,2
+accurate performance,2
+distributed systems,2
+execution model,2
+local resources,2
+process-oriented simulations,2
+queueing system,2
+web database,2
+logistic regressions,2
+categorisation,2
+error reduction,2
+hierarchical categorisation,2
+velocity,2
+neural network algorithm,2
+arc,2
+ellipse,2
+in-vitro fertilization (ivf),2
+fnglvq,2
+efficiency,2
+electrocardiogram signal,2
+robust algorithm,2
+three component,2
+wavelet algorithms,2
+fuzzy learning,2
+matrix similarity analysis,2
+fuzzy neural networks,2
+quartz,2
+error analysis,2
+autonomous vehicles,2
+resonators,2
+fragrance mixtures,2
+fuzzy sets,2
+sensor arrays,2
+bureaucratic reform,2
+electronic government,2
+strategic information systems planning,2
+certification authority,2
+ipv6,2
+information and communication technologies,2
+cultural heritage,2
+concept-based search,2
+multimedia information retrieval,2
+organization maturity level,2
+part of speech tagging,1
+pos tagging,1
+corpus,1
+part-of-speech,1
+noise robustness,1
+speech feature,1
+buying behaviour,1
+buying tendency,1
+enabler,1
+inhibitor,1
+mobile website,1
+sem covariant based,1
+technology switching,1
+two-factor theory,1
+affect-behavior-cognition (abc),1
+upoint,1
+intention to buy,1
+s-commerce,1
+ehr adoption,1
+electronic health records,1
+clonal selection algorithm,1
+csa,1
+message passing model,1
+mpi.net,1
+parallel clonal selection algorithm,1
+tsp,1
+psp/iq model,1
+it outsourcing,1
+success level,1
+delone-mclean,1
+e-scm,1
+scm,1
+fuzzy ahp and topsis,1
+hedonic,1
+motivation theory,1
+utilitarian,1
+ccis,1
+court case information systems,1
+behavior,1
+fgd,1
+nuclear agency,1
+data quality management,1
+data quality maturity model,1
+eemployees master data,1
+master data management maturity,1
+mdm,1
+supreme court of ri,1
+e-bay,1
+lexicon classification,1
+online auction,1
+sentiment,1
+facilitating condition,1
+habit,1
+online laboratories,1
+perceived cost,1
+design thinking,1
+peer-learning community or plc,1
+professional development,1
+workplace learning,1
+undergraduate,1
+autism,1
+autism spectrum disorder (asd),1
+computer human interaction (chi),1
+learning intervention,1
+e-petition,1
+user-centered design,1
+focus area,1
+key topics,1
+master data,1
+components of orange technology,1
+orange technology,1
+smart house for elderly and disabled,1
+smart technology,1
+hoax news,1
+gold standard,1
+pearson correlation,1
+spearman correlation,1
+socialmedia,1
+user awareness,1
+ministry of finance,1
+maternal,1
+neonatal,1
+referral,1
+technologies,1
+adoption blockchain in scm,1
+blockchain systematic literature review,1
+scm blockchain,1
+scm systematic literature review,1
+digital games,1
+digital items,1
+expectation conformation model,1
+online game community,1
+uses and gratification,1
+social media framework,1
+strength,1
+swot,1
+threat,1
+central statistics agency the republic of indonesia,1
+interaction,1
+user characteristics,1
+health information systems,1
+referral and consultation,1
+attitude toward using technology,1
+behavioral intention to use,1
+perceived service availability,1
+cloud business intelligence,1
+the cloud bi,1
+approach (had),1
+hierarchical decision,1
+pap smear,1
+public health,1
+digital,1
+effect,1
+impact,1
+music,1
+piracy,1
+transformation,1
+employee behavior on information security,1
+electronic marketplace,1
+key success factor,1
+affecting,1
+banking industry,1
+blockchain,1
+payment systems,1
+education erp system,1
+constraints,1
+e-supply chain,1
+trigger factors,1
+executive information system,1
+information science,1
+expectation confirmation theory,1
+g2b,1
+government-to-business,1
+the continuance of use,1
+fuzzy ahp-topsis,1
+clinical information system,1
+electronic medical record,1
+health information technology,1
+image pap smear,1
+otsu,1
+overlapping,1
+activity rule-based,1
+cca,1
+combinatorial clock auction,1
+smra,1
+spectrum auction,1
+spectrum frequency auction,1
+business analytics,1
+peer-to-peer accommodation,1
+e-complaint,1
+icts,1
+stope framework,1
+government social media,1
+indonesia customs,1
+appraisal theory,1
+kominfo,1
+multiple criteria decision analysis (mcda),1
+sdppi,1
+documents,1
+elements,1
+it resources,1
+factor,1
+sub-factor,1
+digital music transformation,1
+failure factor,1
+influence factor,1
+new player emergence factor,1
+digital labor,1
+disconfirmation,1
+negative behavior,1
+negative emotions,1
+hyper-converged infrastructure,1
+technology-organizaation-environment,1
+merchants,1
+platform providers,1
+action research,1
+third wave framework,1
+intention to recommend,1
+e-government service quality,1
+social presence,1
+data openness index,1
+data openness level,1
+government website,1
+open data principles,1
+overlapped areas,1
+overlapped cell segmentation,1
+component benefits,1
+javanesse character recognition,1
+gray level thresholding,1
+nucleus detection,1
+expectation-confirmation model,1
+intrinsic,1
+mobile banking,1
+perceived enjoyment,1
+account promotion,1
+internal factors,1
+knowledge collecting behavior,1
+knowledge contributing behavior,1
+a source of trust,1
+c2c e-marketplace,1
+the displacement of the trust,1
+technology readiness,1
+alignment factors,1
+business-it,1
+ea,1
+systemic literature review,1
+baggage handling management,1
+baggage handling system,1
+personalized,1
+agile methodology,1
+integrated career portal,1
+construction,1
+content,1
+search,1
+asap method,1
+open source,1
+awareness and attitud,1
+factor affecting,1
+acceptance factors,1
+hospital information systems,1
+website,1
+(pls),1
+e-magazine,1
+education e-learning e-learning system success individual impact use,1
+fuzzy ahp,1
+knowledge transfer,1
+knowledge transfer barriers,1
+knowledge transfer solutions,1
+education export,1
+globalised education,1
+management in education.,1
+pilot project,1
+delone and mclean,1
+information system success,1
+lembaga kebijakan pengadaan barang/jasa pemerintah,1
+perceived transparency,1
+asap,1
+odoo payroll,1
+open source system,1
+rad,1
+uat,1
+bagging,1
+electronic word of mouth,1
+information searching,1
+online group buying,1
+critical success factors (csfs),1
+principle component analysis (pca),1
+social crm model,1
+continuous improvement,1
+information system success model,1
+knowledge collection,1
+knowledge contribution,1
+knowledge utilization,1
+edms,1
+kano model,1
+qfd,1
+quality of information systems,1
+updated d&m is success model,1
+bcor,1
+cloud deployment,1
+informant characteristic,1
+information characteristic,1
+intention to travel,1
+online review,1
+system characteristis,1
+g2c,1
+service level agreement,1
+services,1
+sla,1
+web 2.0,1
+hospital type,1
+nlp,1
+politics,1
+hris,1
+task characteristics,1
+technology characteristics,1
+environmental and pollution control deputy,1
+readiness-framework,1
+scope management,1
+software development projects,1
+caatt,1
+cfa,1
+confkatory factor analysis,1
+public information,1
+understandability,1
+continual use intention,1
+dispositional trust,1
+e-government quality,1
+electronic word-of-mouth,1
+institutional trust,1
+idt,1
+innovation diffusion theory,1
+intention-to-use,1
+partial least squares on structural equation modeling,1
+technology readiness index,1
+tri,1
+driving factors,1
+g-readiness,1
+green it,1
+tows,1
+enterprise development,1
+enterprise performance,1
+classification framework,1
+social-crm,1
+software features,1
+balance scorecard,1
+costs,1
+risks,1
+expectation confirmation model,1
+knowledge quality,1
+post adoption behavior,1
+communities of practice,1
+community performance,1
+cop,1
+individual performance,1
+km,1
+kms,1
+type of participation,1
+ahp information systems,1
+quality factor,1
+structure equation model.,1
+sustainability performance,1
+institutional entrepreneurship,1
+institutional isomorphism,1
+institutional logic,1
+expectation,1
+servqual,1
+iq,1
+iq assessment,1
+iq assessment framework,1
+oceanographic characteristics,1
+potential fishing zone (pfz),1
+spatio-temporal data mining,1
+knowledge management adoption,1
+make award,1
+non-financial performance,1
+organizational learning,1
+aim quality,1
+combined conceptual life-cycle (cc/lc),1
+gasser-stvilia,1
+social customer relationship management,1
+it infrastructure flexibility,1
+it-business strategic alignment,1
+luftman,1
+ministry,1
+citizen journalism,1
+citizen media,1
+social environment,1
+stimulus-organismic-response model,1
+technological environment,1
+web communities,1
+educational reform,1
+enterprise architectures,1
+student engagement,1
+portals,1
+customer knowledge creation,1
+e-crm,1
+and enterprise development,1
+safety culture maturity model,1
+safety management system,1
+cloud deployment model,1
+indonesian government,1
+technique for order preference by similarity to ideal solution,1
+contextual factor,1
+individual factor,1
+knowledge sharing behaviour,1
+sct model,1
+social cognitive theory model,1
+android application,1
+e-fishing logbook,1
+fishing data management,1
+mobile documentation,1
+behavioural beliefs,1
+convertibility,1
+payment system characteristics,1
+personal innovativeness,1
+privacy,1
+relative advantages,1
+social influences,1
+bocr,1
+cloud adoption,1
+costs and risks,1
+decision-making trial and evaluation laboratory,1
+grid-density based clustering,1
+potential fishing zone,1
+spatio-temporal clustering,1
+temporal aggregate,1
+extrinsic attributes,1
+optimal maintenance,1
+quality of education,1
+senior high school students,1
+university education,1
+university students,1
+evaluation tool,1
+online transaction,1
+selling online,1
+site security,1
+fishery management,1
+information layers,1
+integrated applications,1
+integrated designs,1
+fisheries,1
+virtual worlds,1
+informative perspective,1
+mobile device,1
+responsive web design,1
+user experience quality,1
+cognitive trust,1
+environment,1
+organization,1
+personal,1
+toe framework,1
+word of mouth,1
+blogs,1
+community,1
+consulting firm,1
+corporate blogs,1
+enterprise,1
+his,1
+public hospital,1
+synthesising,1
+fishery data management,1
+integrated system architecture,1
+consulting companies,1
+employees,1
+erp systems comparison,1
+internal and external organisational factors,1
+it utilisation,1
+analytic network process,1
+anp,1
+erp readiness,1
+erp readiness assessment,1
+fuzzy anp,1
+application security,1
+application security framework,1
+indonesia.,1
+measuring security awareness,1
+web developer,1
+it assessment,1
+teaching hospital,1
+automatic approaches,1
+development costs,1
+post-editing,1
+source language,1
+target language,1
+transfer rules,1
+e-office on demand,1
+pt. telkom indonesia,1
+saas adoption barriers,1
+saas benefits,1
+saas realisation,1
+saas risks,1
+saas value creation,1
+online purchase,1
+perceived behavioral control,1
+risks perception,1
+security concern,1
+cost of acquistion,1
+governance structure,1
+organizational characteristic,1
+pln,1
+pre-sourcing procurement quotation,1
+procurement,1
+information asymmetry,1
+signal,1
+signaling theory,1
+university quality,1
+intangible benefit,1
+google tools,1
+internet marketing,1
+search engine marketing,1
+search engine optimisation,1
+seo,1
+service management,1
+authority,1
+evaluation & measurement,1
+knowledge management governance,1
+strategy development,1
+value delivery,1
+english,1
+shallow-transfer rule,1
+commercial bank,1
+compliance analysis,1
+it investments,1
+investments,1
+co-occurrence statistics,1
+hybrid machine translation,1
+linguistic rules,1
+source material,1
+statistical machine translation,1
+target materials,1
+agglomerative hierarchical clustering (ahc),1
+expectation-maximization (em),1
+gaussian mixture model (gmm),1
+hsv,1
+l*a*b*,1
+rgb,1
+peer-to-peer systems,1
+social metaphor,1
+least frequently used (lfu) strategies,1
+least recently used (lru) strategies,1
+peer to peer systems,1
+routing information,1
+broadcasting,1
+indexing (of information),1
+reinforcement learning,1
+response time (computer systems),1
+adaptive routing,1
+network traffic,1
+novel strategies,1
+p2p system,1
+reinforcement learning approach,1
+routing strategies,1
+unstructured peer-to-peer systems,1
+structured overlay,1
+charity organization,1
+impact maturity model,1
+integration of spl to teaching,1
+progressive learning,1
+spl,1
+delta oriented programming,1
+interaction flow modeling language,1
+software product lines engineering,1
+user interface design,1
+multi software product lines,1
+uml profile,1
+budget control,1
+industrial research,1
+object oriented programming,1
+behavioural specifications,1
+development process,1
+distributed object-oriented systems,1
+ontology-based information systems,1
+quality of product,1
+software variabilities,1
+specifications,1
+automated analysis,1
+automated features,1
+feature modeling,1
+software products,1
+feature grouping,1
+feature model,1
+critical issues,1
+it supports,1
+not-for-profit organization,1
+open source application,1
+small organizations,1
+system generation,1
+microservices,1
+software product line engineering,1
+organization system,1
+product configuration,1
+product expression,1
+product selection,1
+set-theoretic operations,1
+software product line engineerings,1
+unified modelling language,1
+distributed self-organizing control,1
+multiway intersection,1
+urban traffc control,1
+distributed traffic control,1
+swarm-self organizing map,1
+algebraic data type,1
+modular logic,1
+syntax driven logic,1
+verification tool,1
+component based applications,1
+compositionality,1
+girvan-newman,1
+infomap,1
+modularity,1
+wi-fi logs,1
+change management,1
+iso/iec 20000,1
+itsm,1
+video conference,1
+dynamic difficulty adjustment,1
+role playing game,1
+deep learning neural network,1
+learning from unlabeled data framework,1
+ontology engineering process,1
+owl ontologies,1
+prototype implementations,1
+semantic web technology,1
+competence,1
+decision support system,1
+certification competency,1
+methontology,1
+tove,1
+yamo,1
+user profile,1
+alignment system,1
+complex correspondences,1
+ontology alignment,1
+data visualization,1
+medical institutes,1
+academic evaluation,1
+hard-modeling,1
+standard interface,1
+user evaluations,1
+class diagrams,1
+logical axioms,1
+nocv2,1
+visual user interfaces,1
+forth (programming language),1
+standards,1
+application developers,1
+best practice guide,1
+heterogeneous domains,1
+logical foundations,1
+research problems,1
+foundational ontologies,1
+decision support framework,1
+design patterns,1
+distributed data access,1
+dynamic updating,1
+geometric scale,1
+level of detail,1
+preference systems,1
+chess,1
+life cycle assessment,1
+spatiotemporal scopes,1
+core elements,1
+final state,1
+physical characteristics,1
+research process,1
+marine biology,1
+biological oceanography,1
+chemical oceanography,1
+data repositories,1
+environmental sensor systems,1
+logistics project,1
+oceanographic research,1
+physical measurement,1
+oceanographic cruise,1
+ontology reuse,1
+trajectory ontology,1
+environmental impact,1
+different domains,1
+engineering models,1
+heterogeneous sources,1
+life cycle assessment (lca),1
+life cycle inventories,1
+production chain,1
+reference data,1
+data reuse,1
+geoscience data,1
+collaborative modelling,1
+geoscience,1
+intuitive modeling,1
+reasoners,1
+cooking recipe,1
+cooking,1
+transformation process,1
+ocean science,1
+functional constraints,1
+geographic phenomena,1
+geometric representation,1
+scale levels,1
+manchester,1
+expressive description logic,1
+horn logic,1
+tableau algorithm,1
+closed world assumption,1
+design principles,1
+ontology language,1
+reasoning algorithms,1
+technical communications,1
+closed world,1
+decidability,1
+semantic web rule language,1
+sroiq,1
+complexity bounds,1
+decision procedure,1
+tableaux algorithm,1
+local closed world,1
+coupled oscillators,1
+gas consumption,1
+modification methods,1
+phase delay,1
+phase locked,1
+real situation,1
+signalized intersection,1
+simulation and measurement,1
+stop-and-go,1
+traffic signal control,1
+wear and tear,1
+air quality,1
+blind source separation,1
+oscillators (electronic),1
+street traffic control,1
+conjunctive queries,1
+data complexity,1
+upper bound,1
+description logics,1
+global optimization,1
+model checking,1
+cp-abe,1
+pairing encryption,1
+personal health,1
+secret handshake,1
+data aggregation,1
+privacy-preserving,1
+trust management,1
+machine type comunication,1
+mtc,1
+cmmi continuous representation,1
+quality function deployment (qfd),1
+software engineering process improvement,1
+cmmi-svc,1
+it infrastructure devices,1
+managed service,1
+pareto,1
+process improvement,1
+software test process improvement,1
+software testing,1
+test maturity model integration (tmmi),1
+test spice,1
+tpi next,1
+fuzzy number,1
+fuzzy weighted average,1
+multi-criteria decision making,1
+new options,1
+system designers,1
+user action,1
+interaction logs,1
+open-domain relation tuple,1
+relation tuple similarity,1
+vector representation,1
+adaptive metric,1
+average precision,1
+adaptive,1
+natural language,1
+distributional semantics,1
+language technology,1
+mutual informations,1
+restaurant reviews,1
+under-resourced,1
+unsupervised approaches,1
+baseline models,1
+microblogs,1
+word level,1
+bins,1
+machine learning models,1
+neighboring information,1
+output layer,1
+time step,1
+inanlp,1
+indonesia language,1
+natural language processing toolkit,1
+emotion analysis,1
+emotion detection,1
+two stage approach,1
+buzzer detection,1
+election prediction,1
+twitter based election prediction,1
+twitter data analysis,1
+baseline systems,1
+classifier models,1
+polarity classification,1
+training corpus,1
+user-generated content,1
+extension of hmm,1
+compensation scheme,1
+signature scheme,1
+all or nothings,1
+chosen-plaintext attack,1
+ciphertexts,1
+plaintext,1
+proxy re encryptions,1
+proxy re-encryption schemes,1
+symmetric cipher,1
+symmetric key cryptography,1
+purposive sampling,1
+smartpls,1
+data lineage,1
+e-science,1
+provenance,1
+access control model,1
+all or nothing transform (aont),1
+proxy re-encryption,1
+symmetric key encryption,1
+digital signature,1
+directed acyclic graphs,1
+security systems,1
+data provenance,1
+information technology systems,1
+microsoft,1
+national institute of standards,1
+risk analysis and management methodology,1
+risk analysis methods,1
+security management,1
+security risks,1
+industrial management,1
+risk assessment,1
+safety factor,1
+bioluminescence,1
+zoning,1
+firefly algorithms,1
+p-median problems,1
+school location,1
+student distribution,1
+student travel,1
+travel distance,1
+geophysical prospecting,1
+geophysics,1
+stereo image processing,1
+approximation process,1
+digital elevation model,1
+gaussian process regression,1
+least square support vector machines,1
+ordinary kriging,1
+stochastic interpolations,1
+surveying,1
+computational effort,1
+environmental analysis,1
+process settings,1
+processing stage,1
+quality assessment,1
+sar radargrammetry,1
+spatial resolution,1
+optical correlation,1
+biak,1
+coral limestone,1
+data-fusion,1
+obia,1
+papua,1
+sar-interferometry,1
+sentinel-ia,1
+spot-6,1
+argumentation mining,1
+attention mechanism,1
+hand-crafted features,1
+sentence-level,1
+word-level,1
+dem,1
+kriging,1
+pixel size,1
+sampling density,1
+2dpca-svm,1
+hog,1
+multispectral image,1
+shoreline,1
+geotagged image,1
+id3,1
+business perspective,1
+decision making process,1
+fast-food restaurants,1
+food services,1
+location analysis,1
+fingerprint recognition,1
+telebiometric,1
+diabetes mellitus,1
+fuzzy clustering,1
+sleep disorder,1
+location-allocation problem,1
+p-median problem,1
+school allocation,1
+hidden markov models,1
+earth sciences,1
+geology,1
+prisms,1
+tracking radar,1
+accuracy analysis,1
+earth's surface,1
+fusion techniques,1
+interpolation method,1
+land-cover types,1
+radar technology,1
+satellite technology,1
+spatial analysis,1
+fast feature pyramids,1
+gender,1
+man woman,1
+region based cnn,1
+conditional models,1
+dynamic conditional random fields,1
+external dynamics,1
+internal structure,1
+probabilistic graphical models,1
+sequence data,1
+tree algorithm,1
+water pumps,1
+id cnn,1
+ischemic,1
+cifar10,1
+metaheuristic,1
+microcanonical annealing,1
+mnist,1
+cuckoo search,1
+dogell,1
+fetal head segmentation,1
+flower pollination algorithm,1
+apriori algorithm,1
+association rule,1
+fuzzy association rule,1
+ovarian cancer,1
+faster-rcnn,1
+multiple object tracking,1
+siamese neural network,1
+fast food restaurant,1
+spatial data,1
+bayesian framework,1
+optimal particle filter,1
+short-term model-free tracking,1
+spectral method,1
+foundation,1
+knowledge management solution,1
+insufficiently supported argument,1
+shallow learning,1
+batik retrieval,1
+feature reduction,1
+sequential forward floating selection,1
+classifier,1
+convolution neural network,1
+differential evolution,1
+implementation strategies,1
+machine learning techniques,1
+meta heuristic algorithm,1
+meta-heuristic methods,1
+optimization techniques,1
+physiology,1
+half-join,1
+symmetrical,1
+mental health,1
+batik motif retrieval system,1
+content based image retrieval feature fusion,1
+adaptive differential evolution,1
+chaotic sequences,1
+image contrast enhancement,1
+abrupt motion tracking,1
+casa,1
+csh,1
+simulated annealing algorithm,1
+cattle,1
+e-livestock indonesia,1
+voting,1
+image matching,1
+boundary matching,1
+image segmentation algorithm,1
+local consistency,1
+segmentation algorithms,1
+segmentation techniques,1
+technical evaluation,1
+geographic areas,1
+junior high schools,1
+model prediction,1
+number of datum,1
+quality services,1
+decision support system (dss),1
+gis-based,1
+government officials,1
+web-based system,1
+agriculture,1
+real-time,1
+metaheuristic algorithm,1
+smartphone-photo,1
+dance motion recognition and scoring,1
+capacity,1
+critical jam,1
+density,1
+flow,1
+free flow speed,1
+fundamental diagram,1
+jam density,1
+macroscopic model,1
+non intrusive sensor,1
+virtual detection zone,1
+wave speed,1
+signal compression,1
+face distance estimation,1
+bag of visual words,1
+ikonos,1
+integrated visual vocabulary,1
+scene classification,1
+region of interest (roi),1
+magnetic resonance imaging,1
+neurodegenerative diseases,1
+alzheimer's,1
+alzheimer's disease,1
+local binary patterns,1
+magnetic resonance images (mri),1
+mild cognitive impairments (mci),1
+orthogonal plane,1
+support vector machine classifiers,1
+beef cattle identification,1
+matching refinement,1
+muzzle pattern,1
+centroid contour distance,1
+flower image retrieval,1
+hsv color,1
+orchid,1
+dance motion recognition,1
+syntactic model,1
+features sets,1
+graph cut,1
+gray level co occurrence matrix(glcm),1
+rgb colors,1
+segmentation methods,1
+distance measure,1
+keypoint,1
+matching score,1
+potential features,1
+automata theory,1
+linear regression,1
+cellular automata modeling,1
+classification analysis,1
+clustering analysis,1
+fire danger rating,1
+geo-spatial data,1
+land use and land cover,1
+multiple linear regression analysis,1
+spatio-temporal dynamics,1
+blood,1
+cells,1
+detection methods,1
+double thresholding,1
+plasmodium parasites,1
+positive value,1
+red blood cell,1
+gabor filter,1
+gini index,1
+greylevel co-occurrence probability (glcp),1
+slums detection,1
+background segmentation,1
+human skin detection,1
+race classification,1
+texture descriptor,1
+texture descriptors,1
+typical application,1
+color image processing,1
+meats,1
+digital image,1
+features extraction,1
+gray-level co-occurrence matrix,1
+depth sensors,1
+discriminative features,1
+grammar inference,1
+set of rules,1
+training example,1
+bali traditional dance,1
+kinesthetic element,1
+skeleton descriptor,1
+expected benefits,1
+sleep stages classification,1
+temporal pattern,1
+time delay neural network,1
+balancing techniques,1
+cumulative distribution function,1
+data partition,1
+dirichlet distributions,1
+dirichlet process,1
+medical data,1
+multinomials,1
+over sampling,1
+roc curves,1
+statistical properties,1
+de-noised signals,1
+de-noising,1
+hard thresholding,1
+minimax,1
+neighbourhood,1
+optimal selection,1
+soft threshold,1
+stationary wavelet transforms,1
+thresholding,1
+visual inspection,1
+wavelet domain,1
+wavelet thresholding,1
+mean square error,1
+noise pollution control,1
+signal denoising,1
+failure factors,1
+focus groups,1
+soft systems,1
+availability and accessibility,1
+nonlinearity,1
+sleep apnea,1
+fluorescent,1
+fusion,1
+nodes of ranvier,1
+paranodes,1
+k-d tree,1
+optimum index factor,1
+similarity criteria,1
+gabor wavelet,1
+indonesian paintings,1
+visual arts,1
+image restoration,1
+old document image,1
+bi-temporal images,1
+classification model,1
+land use pattern,1
+augmented-vector approach,1
+co-occurrence matrix features,1
+erts-1,1
+joint pair approach,1
+landsat tm,1
+multisensor fusion,1
+principal component transform,1
+semivariogram features,1
+adaptive recognition,1
+backpropagation learning,1
+cluster distributions,1
+kohonen self-organization network,1
+recognition abilities,1
+winning probability,1
+image compression and decompression,1
+jpeg,1
+multispectral,1
+spectrometer,1
+transform coding,1
+oncology,1
+skin,1
+karhunen-loeve transformations,1
+malignant melanoma,1
+skin cancer,1
+economic and social effects,1
+environmental engineering,1
+regional planning,1
+economic growth,1
+environment quality,1
+market accessibility,1
+emphasis on applicability,1
+co-occurrence matrix,1
+adaptive lee,1
+texture units,1
+adaptive ability,1
+decision-based,1
+implementation aspects,1
+its applications,1
+logic programs,1
+program transformations,1
+answer set programming,1
+course timetabling,1
+hard constraints,1
+lightweight application,1
+modeling course,1
+real-world problem,1
+soft constraint,1
+improved techniques,1
+logical inference,1
+change data capture,1
+distributed system,1
+extract transform load,1
+counterfactuals,1
+non-monotonic reasoning,1
+sea,1
+applications,1
+dual-process model,1
+machine ethics,1
+qualm system,1
+morals,1
+judgment,1
+moral transgressions,1
+emotions,1
+regret minimization,1
+mathematical,1
+human mind,1
+stable models,1
+counterfactual reasoning,1
+critical thinking,1
+computer games,1
+cognitive capability,1
+computational technique,1
+ethical behavior,1
+evolutionary game theory,1
+intention recognition,1
+moral judgment,1
+updates,1
+based reasonings,1
+moral philosophy,1
+program updates,1
+declarative debugging,1
+answer subsumption tabling,1
+dual transformation,1
+tabled logic programming,1
+dual program transformation,1
+updates propagation,1
+xsb prolog,1
+ocean color,1
+regional algorithms,1
+evolution prospection,1
+p-log,1
+uncertainty reasoning,1
+behavioral research,1
+artificial agents,1
+cognitive aspects,1
+cognitive science,1
+intelligent tutoring system,1
+cache utilization,1
+l2 cache,1
+runtimes,1
+sat solvers,1
+cache memory,1
+abductive stable models,1
+acorda,1
+double effect principle,1
+modelling morality,1
+prospective logic,1
+triple effect principle,1
+trolley problem,1
+moral decisions,1
+moral dilemmas,1
+codes (symbols),1
+data freshness,1
+execution traces,1
+linear temporal logic,1
+requirements engineering,1
+constraint solving,1
+finite number,1
+requirement languages,1
+security protocols,1
+sensory perception,1
+adaptive hybrid learning,1
+artificial odor recognition system,1
+competitive learning,1
+self organized network,1
+blood vessel,1
+large scale dataset,1
+chernoff bound,1
+standard deviation,1
+lidar,1
+point cloud,1
+pointnet,1
+ardev,1
+big data prediction,1
+tree regression,1
+crowdsourced,1
+label,1
+photo dataset,1
+restaurant attributes,1
+adaptive background learning,1
+bhattacharyya distance,1
+hole filling,1
+its,1
+recall,1
+tracking,1
+continuous conditional random field,1
+probabilistic graphical model,1
+diabetic retinopathy (dr),1
+airline data,1
+hyperbolic tangent,1
+molecular dynamic simulation,1
+pfenr,1
+data storage equipment,1
+analysis process,1
+conventional database,1
+data storage,1
+data storage systems,1
+data streaming,1
+sampling areas,1
+temporary storage,1
+atmospheric composition,1
+carbon,1
+air temperature,1
+correlation analysis,1
+digital sensor nodes,1
+environment conditions,1
+light intensity,1
+negative correlation,1
+routing protocols,1
+central nodes,1
+comparative studies,1
+encryption algorithms,1
+high transmission,1
+low-cost sensors,1
+sampling points,1
+security threats,1
+odroid xu4,1
+big traffic data,1
+tanh,1
+coefficient correlation,1
+multilayer perceptron,1
+rae,1
+rmse,1
+the canonical particle swarm optimization,1
+adaptive selective background learning,1
+traffic surveillance,1
+intelligent traffic systems,1
+traffic prediction,1
+traffic visualization,1
+background subtraction,1
+adaptive neuro fuzzy inference system (anfis),1
+closed-circuit television (cctv),1
+integrated intelligent transport system (its),1
+traffic data,1
+virtual detection zone (vdz),1
+headlights,1
+speed regulators,1
+low light conditions,1
+normalized cross-correlation,1
+number of vehicles,1
+speed measurement,1
+traffic information,1
+hole-filling,1
+pin-hole models,1
+speed estimation,1
+vehicle speed,1
+computing applications,1
+drug discovery,1
+end-users,1
+gromacs,1
+molecular dynamics simulations,1
+multi-platform,1
+pharmaceutical fields,1
+amber,1
+cable stayed bridges,1
+chemical compounds,1
+molecular mechanics,1
+parallel architectures,1
+molecular dynamics,1
+automated guide vehicles,1
+design architecture,1
+environment change,1
+environmental change,1
+fuzzy inference systems,1
+it problems,1
+robot controls,1
+system failures,1
+machine design,1
+ultrasonic sensors,1
+information sources,1
+inteligent transportation system (its),1
+speed accuracy,1
+traffic problems,1
+video processing,1
+mobile agents,1
+video signal processing,1
+lvq,1
+traffic intelligent system,1
+centering theories,1
+easy to implement techniques,1
+extractive summarizations,1
+human judgments,1
+optimal ordering,1
+relative order,1
+sentence ordering,1
+extreme programming,1
+industrial extreme programming,1
+rup,1
+push-pull-mooring,1
+switching intention,1
+go-life,1
+trust transfer,1
+delone mclean,1
+halo polisi,1
+mobile government,1
+success model,1
+health inequity,1
+dual process theory,1
+investing,1
+continues usage,1
+perceived justice,1
+perceived product quality,1
+yap!,1
+online trading,1
+tra,1
+five star hotel,1
+hotel website,1
+human resource information system,1
+state-owned enterprise,1
+social cognnitive theory,1
+social exchange theory,1
+tourism information,1
+high school student,1
+system implementation,1
+e-money,1
+design compatible,1
+healthcare knowledge management system,1
+knowledge management design,1
+managing medical,1
+end user,1
+government efforts,1
+iot ecosystem,1
+positive security behavior,1
+security promotion,1
+ecc,1
+federation,1
+id-based cryptography,1
+money laundering,1
+virtual currency,1
+elliptic curve,1
+advanced sensing,1
+caring home,1
+ehealth,1
+personalized context-aware applications,1
+fog computing,1
+iot platforms,1
+m2m communications,1
+taas,1
+policy,1
+rtu,1
+telemetry,1
+sip,1
+intrusion detection,1
+capability-based access control,1
+identity establishment,1
+admission control,1
+cross-layer,1
+ofdma,1
+rrm,1
+distributed computing,1
+mapreduce,1
+semisupervised,1
+micro-blog,1
+query reformulation,1
+scoring functions,1
+search performance,1
+search results,1
+time-stamp,1
+weighting scheme,1
+annotation,1
+corpora,1
+digital repositories,1
+str,1
+dna,1
+forensic sciences,1
+peak heights,1
+weight,1
+lag selection,1
+sliding window,1
+constructs association,1
+correctness,1
+equivalence,1
+java,1
+preserving,1
+program graph,1
+promela,1
+combination method,1
+linear combinations,1
+canonical label,1
+closed pattern,1
+cls code,1
+frequent pattern,1
+graph mining,1
+community mining,1
+hidden community information,1
+diameter,1
+graph connectivity,1
+minimum cut,1
+community learning,1
+anticipate change,1
+function of enterprise architecture,1
+reduce complexity,1
+the village law,1
+challenge,1
+extended organization,1
+jsc,1
+value,1
+blockchain in private university,1
+blockchain technology,1
+crypto-governance,1
+graduate document,1
+private university,1
+coso framework,1
+internal control,1
+warehouse management,1
+education 4.0,1
+smart education,1
+smart hybrid learning framework,1
+smart learning,1
+three-layer architecture,1
+tax-free,1
+audit of the academic information,1
+information technology governance,1
+scale,1
+it governance mechanisms,1
+public value,1
+strategic it alignment,1
+delone,1
+emergency service,1
+mclean is success model,1
+criteria analysis,1
+presidential election,1
+ticket booking mobile application,1
+adoption factors,1
+critical success factors (cfs),1
+project management office (pmo),1
+capability maturity model integration (cmmi),1
+global software development (gsd),1
+process area (pa),1
+software process improvement,1
+e-commerce strategy,1
+e-library,1
+call-to-action,1
+instagram for business,1
+information systems development,1
+projects,1
+meta-analysis,1
+smart village,1
+data flow,1
+finance management information systems,1
+information systems integration,1
+b2c e-commerce,1
+desk research,1
+digital cash,1
+electronic transaction,1
+electronic wallet,1
+financial technology (fintech),1
+payment system,1
+e-consultation,1
+b2c,1
+scottish smart city maturity model,1
+mckinsey 7s framework,1
+pest analysis,1
+public diplomacy,1
+qspm,1
+social media strategies,1
+strategy formulation,1
+software failure,1
+telecommunication company,1
+cruise,1
+human resources information systems,1
+ant,1
+dana,1
+e-portfolio model,1
+portfolio,1
+system,1
+type,1
+software development method,1
+public sector,1
+personal traits,1
+e- loyalty,1
+e-perceived value,1
+e-trust,1
+object oriented,1
+smart home,1
+laplace transforms,1
+lighting,1
+correlation coefficient,1
+kernel density estimation,1
+on-line experiments,1
+online machines,1
+user input,1
+very fast decision trees,1
+context-aware,1
+help systems,1
+smart doors,1
+cluster-based routing,1
+autonomous robot,1
+hardware and software implementations,1
+autonomic computing,1
+pervasive computing,1
+application autonomy,1
+context-aware systems,1
+control autonomy trade offs,1
+user controls,1
+adaptive systems,1
+programmed control systems,1
+interactive computer systems,1
+aspiration-based design,1
+integrated criminal justice systems,1
+it/is alignment,1
+needs-based design,1
+strategic alignment model,1
+e-archives,1
+e-records,1
+irmt,1
+readiness measurement,1
+static archives,1
+disasters,1
+disaster recovery,1
+corruption,1
+judiciary reform,1
+rational choice,1
+resistance,1
+strategic alignment,1
+stemming,1
+speech knowledge,1
+hierarchical rm,1
+meta-computing,1
+multilevel scheduling,1
+interfaces (computer),1
+packet networks,1
+pipeline processing systems,1
+routers,1
+voice/data communication systems,1
+differentiated services,1
+packet forwarding,1
+packet switching,1
+network management,1
+clusters of workstations,1
+first come first served,1
+global schedulers,1
+global scheduling,1
+local scheduling,1
+scheduling decisions,1
+two-level scheduling,1
+c++ (programming language),1
+helmet mounted displays,1
+data presentation,1
+graphical displays,1
+head mounted displays,1
+internal definitions,1
+performance tools,1
+scalable performance,1
+technological change,1
+electric power plant loads,1
+network architecture,1
+empirical - comparisons,1
+multicomputer network,1
+multicomputer systems,1
+point-to-point communication,1
+point-to-point network,1
+shared memory architecture,1
+total computation time,1
+work-load distribution,1
+computer hardware,1
+computer system organization,1
+current performance,1
+flexible operating systems,1
+operating system algorithms,1
+operating system design,1
+research questions,1
+system softwares,1
+university of illinois,1
+basic units,1
+character representations,1
+morphological analysis,1
+predictive accuracy,1
+sub-word units,1
+tri grams,1
+dependency parser,1
+network graph,1
+treebanks,1
+hmm-based speech synthesis,1
+parametric models,1
+speech synthesis system,1
+speech waveforms,1
+synthesized speech,1
+textual data,1
+speech synthesis,1
+overlapping n-grams,1
+plagiarism detection,1
+government services,1
+innovative product,1
+qualitative methodologies,1
+related entities,1
+researcher mobility,1
+sampling data,1
+help seeking,1
+markov chain analysis,1
+metacognitive knowledge,1
+metacognitive skills,1
+type selection,1
+systematic literature,1
+cultural dimensions,1
+cultural factors,1
+supporting factors,1
+bps,1
+od-mm,1
+ogd,1
+initial model,1
+smart knowledge map,1
+implementation challenges,1
+instagram-for-business,1
+liniear regression analysis,1
+ministry oftourism,1
+pegi,1
+quantitative,1
+e-govemment,1
+rice distribution,1
+delphi 2nd round,1
+nsgm,1
+learning experience,1
+sns,1
+social network sites,1
+student learning,1
+knowledge management system success model,1
+knowledge map system,1
+knowledge mapping system,1
+classify,1
+didix,1
+digital divide,1
+km enablers,1
+km seci processes,1
+affecting factors,1
+business strategy,1
+job specifications,1
+readiness levels,1
+knowledge management maturity model,1
+oil and gas industry,1
+access to memory,1
+atom,1
+national archives information system,1
+south halmahera,1
+call center,1
+academic information system,1
+higher educational institution,1
+model template controller,1
+e-research,1
+business process management,1
+academic library,1
+electronic resources,1
+critical factor,1
+e-impulse buying,1
+hedonic web browsing,1
+shopping enjoyment tendency,1
+antecedents,1
+online communities,1
+product involvement,1
+product knowledge,1
+knowledge-based e-learning,1
+digital learning environment,1
+in-buildings,1
+learning environments,1
+meta-cognitive learning,1
+socio-techincal,1
+validation,1
+realization,1
+mobile purchase,1
+transportation service,1
+delphi method,1
+fleiss kappa,1
+agile software developments,1
+environmental management information system,1
+business process improvement,1
+enterprise 2.0,1
+is adoption model,1
+accounting information system,1
+ais,1
+enterprise information system,1
+enterprise integration,1
+enterprise networking,1
+health information system,1
+health information system development,1
+aerospace organization,1
+self-assessment,1
+follower,1
+uml,1
+nusantara,1
+scrumban,1
+ui,1
+botulism,1
+brainstorming,1
+certainty factor,1
+expert system,1
+goat disease,1
+tetanus,1
+decision support,1
+web-based information system,1
+decision support/making,1
+dss,1
+kbdss,1
+indonesian e-commerce,1
+interaction design process,1
+criticalknowledge,1
+research laboratory,1
+knowledge management implementation,1
+mapping knowledge,1
+itposmo,1
+city,1
+maturity framework,1
+meta-synthesis,1
+community dimensions,1
+knowledge trust,1
+online programming forums,1
+social networking,1
+creativity,1
+operationalization,1
+indonesia e-government ranking (pegi),1
+national library of indonesia,1
+information,1
+kami index,1
+usefulness,1
+multi-products,1
+rfm,1
+sales prediction model,1
+e-learning personalization,1
+comparative analysis,1
+costumer attitude,1
+e-mail advertising,1
+sms advertising,1
+social media advertising,1
+assessing knowledge,1
+data gathering,1
+it infrastructures,1
+organizational capabilities,1
+organizational structures,1
+stratified random sampling,1
+ethnophytomedicine,1
+socio-technical approach,1
+knowledge management cycle,1
+employee participation,1
+m-government,1
+explicit knowledge sharing,1
+social capital,1
+tacit knowledge sharing,1
+fishbone analysis,1
+knn,1
+national civil servant,1
+welfare,1
+commonkads,1
+business process mode,1
+hajj,1
+metadata schema,1
+e-mamosys,1
+qa,1
+csf for e-hajj,1
+e-hajj inindonesia,1
+e-hajj model,1
+it posmo,1
+inventory management,1
+pharmacy,1
+sequential pattern analysis,1
+e-portfolio implementation,1
+explicit knowledge,1
+organizational knowledge,1
+qualitative study,1
+mixed method,1
+agricultural vocational education,1
+the performance of educational institutions,1
+knowledge management mapping,1
+adhocracy culture,1
+clan culture,1
+competing values framework,1
+hierarchy culture,1
+market culture,1
+capture,1
+discovery,1
+sharing,1
+medicinal plant,1
+web semantic application,1
+confirmatory,1
+exploratory,1
+office buildings,1
+analytical approach,1
+knowledge database,1
+knowledge management technology,1
+organizational activities,1
+quantitative method,1
+information eras,1
+public services,1
+research methodologies,1
+research survey,1
+healthcare organization,1
+least squares approximations,1
+management science,1
+societies and institutions,1
+education and training,1
+several variables,1
+tile based gis,1
+enterprise architecture model,1
+socio technical,1
+data centers,1
+government institutions,1
+manage information,1
+mission objectives,1
+operational costs,1
+rapid growth,1
+abs,1
+abstract behavioural specification,1
+ac-mdwe,1
+architecture-centric model-driven web engineering,1
+modeldriven development,1
+triangle inequality,1
+rup (rational unified process),1
+system design,1
+cluster migration analysis,1
+hot spots analysis,1
+cluster centroids,1
+cluster densities,1
+cluster structure,1
+distance matrices,1
+real life datasets,1
+relative density,1
+synthetic datasets,1
+temporal change,1
+visualization method,1
+world bank,1
+strength of materials,1
+taxation,1
+attribute ranking,1
+hot spot analysis,1
+interactive drill-down visualization,1
+drill-down,1
+data processing,1
+demonstrations,1
+economics,1
+cluster changes,1
+real-world data set,1
+structural cluster changes,1
+depok,1
+resnet50,1
+smart tourism,1
+touris attractions classification,1
+betawi,1
+image detection,1
+traditional food,1
+faster r-cnn,1
+ristretto,1
+structured sparsity learning,1
+tegra txl,1
+all-caps,1
+governor,1
+influencing factors,1
+design science research methodology,1
+bayesian network structural adjustment,1
+bynowlife,1
+ontology enrichment,1
+owl and bayesian network integration,1
+domain engineering,1
+functional requirements (fr),1
+nfr attributes,1
+non-functional requirements (nfr),1
+requirements engineering (re),1
+ontology-based application,1
+productivity,1
+good governances,1
+government performance,1
+requirements recovery,1
+software comprehension,1
+software maintenance,1
+architecture for integrated information system (aris),1
+crm model,1
+zachman framework,1
+business-centric bsc,1
+it bsc,1
+operational crm,1
+enterprise architecture (ea),1
+higher education value chain,1
+social crm framework,1
+value chain process,1
+workflow model,1
+end-to-end interaction,1
+requirements,1
+requirements elicitation,1
+requirements reconstruction,1
+usi ontology,1
+wimp-ui ontology,1
+framework based on theory of crm (frontcrm),1
+consistency,1
+goal model,1
+goal oriented requirement engineering (gore),1
+swrl,1
+commonality & variability,1
+system architecture,1
+case tools,1
+custodial operations,1
+data modeling,1
+enterprise information,1
+deep temporal sigmoid belief network,1
+dtsbn,1
+sequence generation,1
+sign system for indonesian language,1
+smartphone,1
+heuristic,1
+kinect sensors,1
+sign language recognition,1
+automatic translation,1
+data-mining tools,1
+training algorithms,1
+cross-correlation function,1
+cross-correlation value,1
+high degree of accuracy,1
+spectral domains,1
+translation systems,1
+cameras,1
+strain measurement,1
+android,1
+notification,1
+answer passages,1
+document ranking,1
+quality estimation,1
+answer-biased summaries,1
+cqa,1
+document summarization,1
+learning-to-rank,1
+answer sentence selection,1
+external features,1
+answer summaries,1
+delphi technique,1
+sub-components,1
+grounded theory,1
+balanced,1
+amount of information,1
+implementation techniques,1
+index structure,1
+meta information,1
+counting quantifiers,1
+knowledge basis,1
+large scale experiments,1
+linguistic patterns,1
+novel techniques,1
+text sources,1
+cardinalities,1
+evaluation results,1
+perfect recalls,1
+completeness analytics,1
+entity-centric kbs,1
+meta-information,1
+negative knowledge,1
+nulls,1
+certain answers,1
+food allergies,1
+positive data,1
+data-sources,1
+high level description,1
+knowledge domains,1
+theoretical framework,1
+potential benefits,1
+research communities,1
+research environment,1
+resource description framework,1
+structured data,1
+asia-pacific,1
+geotag,1
+travel,1
+travel destination,1
+travel satisfaction,1
+intention to invest,1
+religiosity,1
+sharia,1
+best practice,1
+sap erp,1
+gender equality,1
+peer to peer lending,1
+woman empowerment,1
+health platform,1
+self-diagnosis,1
+initial trust,1
+halodoc,1
+mobile health application,1
+medium credibility,1
+stock investment virtual communities,1
+continuance usage,1
+mobile wallet,1
+state-owned company (soe),1
+personalization features,1
+photos,1
+restaurant recommender,1
+review credibility,1
+user intention,1
+user perception,1
+user experience evaluation,1
+user-centered approach,1
+web user profiling,1
+embedded system,1
+esp8266,1
+microcontroller,1
+peatland monitoring system,1
+wireless sensor network,1
+elasticsearch,1
+federated,1
+hybrid,1
+institution,1
+papers,1
+peer-to-peer,1
+plagiarism,1
+application layer,1
+application signature pattern,1
+deep packet inspection,1
+free/open source software,1
+aeronautical telecommunication network (atn),1
+atn over ip,1
+generic routing encapsulation (gre),1
+linux kernel 3.x,1
+raspberry pi,1
+business,1
+culture,1
+product categories,1
+ux dimensions,1
+adaptive user interface,1
+adaptivity,1
+emerging technologies,1
+engagement in learning,1
+learning services,1
+business/ technology driver,1
+readiness level,1
+agent role,1
+learning motivation,1
+learning outcome,1
+teachable agent,1
+co-construction of knowledge,1
+collaborative concept map,1
+kit build,1
+motivator,1
+role agent,1
+ict in schools,1
+facet analysis,1
+technology enhanced learning,1
+tel,1
+zachman's framework,1
+time-based,1
+a collaborative scheme,1
+collaborative leadership,1
+collaborative principal,1
+cloud-based system,1
+it adoption,1
+e-learning system,1
+educational data mining,1
+online learning application,1
+certification,1
+graduate profile,1
+it education,1
+it jobs,1
+job profile,1
+skilled labor,1
+addie,1
+kinesthetic learning style,1
+comprehension system,1
+instructional design system,1
+learning system,1
+human-computer interaction,1
+flipped classroom,1
+instructional design,1
+asynchronous communications,1
+synchronous communications,1
+coi model,1
+measure the achievement,1
+cross-cultural design,1
+e-commerce design,1
+hofstede cultural dimension,1
+user-interface design,1
+artifact development method,1
+automation enabler,1
+concept representation,1
+competencies,1
+online preparedness skills,1
+mobile computing,1
+e-learning environment,1
+mobile applications,1
+mobile technology,1
+research and development,1
+system usability,1
+user centered design,1
+continuous improvements,1
+maturity levels,1
+physics,1
+hier-archical clustering,1
+hierarchical agglomerative clustering,1
+learning objects,1
+multi documents summarization,1
+ontology-based searching,1
+patterns,1
+information and communications technology,1
+infrastructure,1
+utilization,1
+ux measurement,1
+augmented reality,1
+design-based learning,1
+game-based learning,1
+technology-supported learning,1
+goal-directed design,1
+social q and a,1
+distance learning,1
+massive open online course,1
+handmade,1
+information architecture,1
+metrics,1
+discussion forum,1
+personalization systems,1
+network function virtualization,1
+ict adoptions,1
+secondary schools,1
+structured equation modeling,1
+face validity,1
+ils,1
+index of learning style,1
+adaptation,1
+sus,1
+cognitive action,1
+information visualization,1
+planning,1
+cognitive actions,1
+ilm modules,1
+al-qur'an,1
+arabic,1
+arabic lesson,1
+degree centrality,1
+contextual inquiry,1
+emergency room,1
+hospital management information system,1
+open courseware,1
+learning programming online,1
+programming,1
+usability evaluation.,1
+evolutionary optimization algorithm,1
+optimization criteria,1
+optimization problems,1
+segment selection,1
+semantic image segmentations,1
+learning management systems,1
+active learning,1
+blended learning,1
+face-to-face,1
+hci,1
+project-based,1
+scaffolding,1
+learning platform,1
+open content,1
+open course ware,1
+granular,1
+learning object,1
+experimental groups,1
+learning performance,1
+science writing,1
+instrument development,1
+metacognitive,1
+questionnaire,1
+engineering online education,1
+forethought,1
+performance control,1
+self-reflection,1
+web-intensive course,1
+shared note-taking,1
+engineering college,1
+interactive learning module,1
+metacognitive strategies,1
+mixed-methods study,1
+enhanced guided notes (egn),1
+self-regulated learning (srl),1
+cognitive strategies,1
+college freshmen,1
+task interpretation,1
+note-taking activity,1
+expectancy for success,1
+interest,1
+asynchronous online discussion,1
+cognitive skills,1
+self-report assessment,1
+semi-structured interview,1
+content development,1
+adjacency hyperedges matrix,1
+composite objects relation,1
+medical images,1
+doppler shift,1
+wind farm,1
+ieee 802.11,1
+tdma,1
+wlan,1
+gland images,1
+docker container,1
+molecular modeling,1
+virtual screening,1
+request,1
+server,1
+tele-ecg,1
+radar,1
+transmitters,1
+bistatic radars,1
+carrier frequency,1
+multi-path effect,1
+targets detection,1
+automatic target recognition,1
+guard intervals,1
+pilot carrier,1
+signal-on,1
+intelligent kmeans,1
+anomaly detection,1
+elliptical method,1
+entropy method,1
+bibliography,1
+expertise,1
+library catalogue,1
+multi-domain ontology,1
+semantic heterogeneity,1
+multistatic radars,1
+program processors,1
+radar systems,1
+association algorithms,1
+central processor units,1
+graphics processor units,1
+matlab environment,1
+parallel processing,1
+parallel version,1
+signal processing fields,1
+approximation algorithms,1
+e-health grid,1
+topology,1
+mathematics education,1
+online group discussion,1
+containers,1
+high-availability,1
+resilience,1
+e-government grid,1
+triple-factor,1
+medical decision support systems,1
+exhaustive search,1
+ids,1
+statistical approach,1
+early warning system,1
+interaction functions,1
+large-scale monitoring,1
+nearest neighborhood,1
+real-time process,1
+safety critical systems,1
+search algorithms,1
+search-based,1
+sensors network,1
+simple algorithm,1
+sub-clusters,1
+nuclear power plants,1
+hybrid sensors,1
+discrete-event simulation,1
+fifo,1
+grid computing,1
+gridsim toolkit,1
+indoedu-grid,1
+scfq,1
+data grid,1
+e-culture,1
+modelling,1
+newton method,1
+simulation models,1
+nonlinear systems,1
+ams subject classifications: 65l05,1
+ivps,1
+odes,1
+runge-kutta methods,1
+singualr point,1
+singular problem,1
+ckm,1
+goals,1
+key factor,1
+business process model and notation (bpmn),1
+complexity measures,1
+cyclomatic complexity,1
+graphical representations,1
+process complexity,1
+software complexity,1
+accuracy problems,1
+behavior trees,1
+linear time temporal logic,1
+test case specifications,1
+science,1
+fasttext,1
+health insurance,1
+web design,1
+e- services,1
+ease-of-use,1
+privacy and security,1
+reliability testing,1
+aggregation,1
+web application,1
+automatic tagging,1
+air transportation,1
+airline industry,1
+direct observations,1
+quality evaluation,1
+service interaction,1
+web site design,1
+wilcoxon signed rank test,1
+hate code,1
+long documents,1
+embeddings,1
+f1 scores,1
+language detection,1
+learning approach,1
+offensive languages,1
+organizational goals,1
+planning objectives,1
+court decision documents,1
+indonesian etourism,1
+intention to book,1
+topic modeling,1
+user reviews,1
+multilingual hate speech identification,1
+engagement,1
+photo sharing,1
+restaurant recommendation system,1
+user similarity,1
+e-budgeting,1
+is success model delone,1
+mclean,1
+ttf,1
+gene expressions,1
+kernel dimensionality,1
+kernel method,1
+recurrent cancer,1
+abusive,1
+sentistrength,1
+social media campaign,1
+crisp-dm,1
+pangkep,1
+app review,1
+k-fold cross validation,1
+pornography,1
+law documents,1
+punishment provision,1
+ridor,1
+ripple down rule learner,1
+artificial neural network (ann),1
+cryptocurrency,1
+collaborative filtering recommender systems,1
+e-commerce recommender system,1
+graph-based,1
+item-based,1
+link prediction,1
+user's preferences,1
+km process,1
+reliability and validity testing,1
+centrality measure,1
+opinion leader,1
+abusive language,1
+word-embedding,1
+bibliometric,1
+emerging research areas,1
+time series characteristics,1
+attributes extraction,1
+product title,1
+d&m is success model,1
+erp system implementation,1
+project management success factors,1
+research institute,1
+tam2,1
+net sentiment score,1
+memory-based,1
+model-based,1
+content-based filtering,1
+weighted parallel hrbrid,1
+social media metrics,1
+society,1
+analytic hierarchy processing,1
+expansion of branch office location,1
+geospatial dashboard,1
+brand reputation,1
+cultural heritage multimedia collection,1
+sparql query,1
+emerging topics,1
+research topics,1
+science & technology (s&t),1
+forecasting modeling,1
+forecasting performance,1
+historical database,1
+polynomial functions,1
+polynomial interpolation,1
+pseudo relevance feedback,1
+wordnet,1
+color moments,1
+indonesian medicinal plant identification,1
+local binary pattern variance,1
+morphological,1
+clinical data,1
+kernel dimensionality reduction,1
+kernel matrix,1
+microarray data,1
+apnea,1
+combination schemas,1
+dynamic time warping,1
+euclidean,1
+model selection,1
+training dataset,1
+forecasting accuracy,1
+generalization capability,1
+kernel regression,1
+optimal number,1
+prediction performance,1
+scientific publications,1
+stationary time series,1
+support vector regressions,1
+experiments,1
+information & communication technology,1
+kmeans,1
+patent,1
+co-reference resolution,1
+entity equivalence,1
+extraction method,1
+concept map,1
+mathematical misconception,1
+collaborative,1
+linear algebra,1
+student centered e-learning environment,1
+user engagement,1
+dimension reduction,1
+topic detection,1
+depth,1
+3d distance,1
+single scattering model,1
+dark channel prior,1
+red channel prior,1
+transmission,1
+objective metrics,1
+visualness,1
+word sense disambiguation,1
+single scattering,1
+descriptive,1
+lvd-f,1
+objective,1
+tfidf,1
+keywords,1
+lecture,1
+semantic,1
+tags,1
+video,1
+bivariate polynomial,1
+blossom of a bivariate polynomial,1
+bud of a bivariate polynomial,1
+encoding-decoding,1
+geometric design,1
+sequence of representations,1
+shape representation,1
+surface representation,1
+triangular bézier patch,1
+computer aided design,1
+computer graphics,1
+polynomials,1
+computer-aided geometric design (cagd),1
+geometric design information,1
+shape representations,1
+computational geometry,1
+b-spline,1
+bernstein basis,1
+blossoming,1
+dual functionals,1
+homogenization,1
+marsden's identity,1
+permanent,1
+pólya basis,1
+progressive basis,1
+transformation.,1
+algebra,1
+elementary function,1
+exponential form,1
+field extensions,1
+integration method,1
+trigonometric functions,1
+medical conditions,1
+sleep disorders,1
+sleep pattern,1
+audition,1
+silent speech interfaces,1
+spatio temporal features,1
+variable length,1
+visual speech recognition,1
+acoustic speech,1
+audio-visual speech,1
+automatic speech recognition,1
+simple structures,1
+single-modal,1
+visual speech,1
+bi-directional lstm,1
+crack growth rate,1
+long-short-term-memory network,1
+colorization,1
+deep convolutional neural networks,1
+sketch inversion,1
+gradient descent,1
+latent model,1
+neighborhood,1
+form document,1
+handwriting recognition,1
+3dcnn,1
+cheating detection,1
+video description,1
+electroencephalography,1
+stroke patients,1
+discriminative deep belief network,1
+normal sparse,1
+restricted boltzmann machines,1
+sparsity,1
+activity recognition,1
+multimodal decomposable models,1
+simple linear iterative clustering,1
+fast dropout training,1
+landsat 8,1
+paddy growth stage,1
+3d gan,1
+activity video generation,1
+bi-directional long short-term memory,1
+3-dimensional convolutional neural network,1
+word boundary detection,1
+chains,1
+computational time,1
+decomposable models,1
+feature detector,1
+head location,1
+human joints,1
+interest point detectors,1
+multi-modal,1
+kinematic features,1
+growth stages,1
+heuristic algorithm,1
+paddy,1
+relevance vector machine (rvm),1
+support vector machine (svm),1
+external knowledge,1
+labeled dataset,1
+multiple tokens,1
+name recognition,1
+unstructured texts,1
+word similarity,1
+biology,1
+electronic medical record system,1
+statistics and numerical data,1
+computational biology,1
+medical records systems computerized,1
+adaptive capabilities,1
+indicator parameters,1
+multi-classifier,1
+online sequential elms,1
+online sequential extreme learning machine,1
+pseudo-inverse matrixes,1
+regression problem,1
+online system,1
+serial learning,1
+distribution-sensitive learning,1
+human gesture recognition,1
+relevance vector machine,1
+conditional rbm (crbm),1
+restricted boltzmann machine (rbm),1
+sparse encoding symmetric machines (sesm),1
+temporal deep belief network (tdbn),1
+bootstrap particle filter,1
+auto encoders,1
+body language,1
+human pose,1
+iterative learning,1
+public dataset,1
+supervised classifiers,1
+extreme learning machine (elm),1
+feedforward neural networks,1
+feature selection methods,1
+network complexity,1
+primitive actions,1
+testing accuracy,1
+hierarchical binary trees,1
+human motion recognition,1
+multi-class classification,1
+randomly distributed,1
+animation,1
+color and depth images,1
+convex hull algorithm,1
+depth information,1
+occlusion handling,1
+partial occlusions,1
+tracking accuracy,1
+user interaction,1
+cultivation,1
+radial basis function networks,1
+satellite imagery,1
+accuracy of classifications,1
+agriculture applications,1
+moderate resolution imaging spectroradiometer,1
+multi-class classifier,1
+radial basis function(rbf),1
+radiometers,1
+modis images,1
+support vector machines (svms),1
+principal component regression,1
+yield data,1
+dwt,1
+heartbeat,1
+kpca,1
+wavelet-svm,1
+3d shape,1
+texture images,1
+error compensation,1
+image quality,1
+opacity,1
+surface properties,1
+parameter estimation,1
+ray tracing,1
+surface structure,1
+hierarchical learning,1
+opaque surfaces,1
+regularization parameter,1
+3d modeling,1
+transparent surface,1
+polarization,1
+brewster angle,1
+decision tree induction,1
+degree of polarization,1
+polarization images,1
+reference points,1
+local regression,1
+multiple view,1
+3d shape reconstruction,1
+light sources,1
+photometric stereo,1
+algorithm design and analysis,1
+face detection,1
+facial animation,1
+layout,1
+rendering (computer graphics),1
+shape,1
+solid modeling,1
+three dimensional computer graphics,1
+face images,1
+face reconstruction,1
+learning stability,1
+gaussian noise (electronic),1
+intelligent control,1
+loudspeakers,1
+adaptive feature extractions,1
+automatic speech recognition system,1
+cascade neural networks,1
+probabilistic neural networks,1
+speaker identification systems,1
+speech recognition systems,1
+adaptive algorithms,1
+multilayer neural networks,1
+adaptive codebook generation algorithm,1
+bispectrum feature extraction,1
+karhunen-loeve transformation,1
+self organizing feature map,1
+simplified differential competitive learning network,1
+beverages,1
+cosmetics,1
+back propagation neural networks,1
+beverage industry,1
+ethanol concentrations,1
+human sensory,1
+lvq neural network,1
+computer simulation languages,1
+automatic modeling,1
+automatic translators,1
+commonality and variability,1
+design and implementations,1
+executable model,1
+software product lines,1
+unified modeling language,1
+medical entity recognition,1
+microblog,1
+topic,1
+indonesian automatic speech recognition,1
+medical speech corpus,1
+text corpus,1
+bootstrapping,1
+hypernym-hyponym,1
+pattern extraction,1
+emotion classification,1
+feature engineering,1
+indonesian tweet,1
+blog,1
+political text analytics,1
+stance detection,1
+audio feature,1
+hierarchical-level fusion,1
+music era,1
+consumer healths,1
+dictionary-based,1
+personalized healths,1
+question-answering services,1
+health,1
+healthcare forums,1
+question identifications,1
+sentence classifiers,1
+health care,1
+supervised learning,1
+cross-lingual,1
+supervised learning approaches,1
+supervised machine learning,1
+training data,1
+word-sense disambiguation,1
+graph clustering,1
+node weight,1
+topical,1
+topological,1
+direct interactions,1
+gating mechanisms,1
+long short term memory,1
+long-term dependencies,1
+weight parameters,1
+tensors,1
+acoustic model,1
+deep neural network,1
+variational bayes,1
+phonotactic methods,1
+spoken language identification,1
+language identification,1
+statistical method,1
+cross-lingual and multi-lingual modeling,1
+spoken language processing,1
+under-resourced languages,1
+emotion lexicon,1
+sub-jectivity,1
+automatic quote detection,1
+memorable spoken quote,1
+popularity analysis,1
+user interest,1
+user profiling,1
+pos sequence,1
+cochleogram,1
+dnn and cnn,1
+information retrieval systems,1
+best match,1
+learning to rank,1
+non-relevant documents,1
+point wise,1
+ranking functions,1
+svm(support vector machine),1
+answer quality,1
+hierarchical supervised learning,1
+question type analysis,1
+user generated content,1
+public awareness,1
+public speaking,1
+speech duration,1
+video files,1
+acoustic features,1
+automatic speech,1
+disfluencies,1
+large vocabulary,1
+new evaluation methods,1
+speech summarization,1
+spontaneous speech,1
+music feature extraction,1
+music instrument identification,1
+traditional music instrument classification,1
+factoid questions,1
+named-entity recognition,1
+bayesian analogical reasoning,1
+respubliqa,1
+question analysis,1
+question-answer pairs,1
+statistical learning,1
+list completion,1
+search mechanism,1
+search-result snippet,1
+system architectures,1
+web search results,1
+patent retrieval,1
+context supporting,1
+n-gram overlapping,1
+random projection,1
+textual containment,1
+music information retrieval,1
+mutual information,1
+geographic information,1
+geographic resources,1
+question categories,1
+internet,1
+windows,1
+geographical information retrieval,1
+glossaries,1
+document translation,1
+machine dictionaries,1
+machine translation tools,1
+relevance feedback,1
+query set,1
+transtool,1
+commercial machine translation,1
+english documents,1
+query sets,1
+tagging,1
+cross language text,1
+telecommunication links,1
+cross-language evaluation forum (clef),1
+directory path,1
+page content,1
+page title,1
+dictionary translation,1
+target domain,1
+combined techniques,1
+cross languages,1
+multi-lingual information retrieval,1
+word formations,1
+term disambiguation,1
+term similarity,1
+text retrieval conferences,1
+abstractive summarization,1
+feedback mechanism,1
+minutia,1
+ridge,1
+toddler fingerprint recognition,1
+benchmark datasets,1
+histogram information,1
+multimodal distributions,1
+conditional probabilistic model,1
+graphical model,1
+seasonality,1
+crops,1
+fruits,1
+navigation,1
+precision agriculture,1
+2d laser scanners,1
+agricultural areas,1
+agricultural environments,1
+monitoring tasks,1
+robot operations,1
+simultaneous localization and mapping,1
+technology development,1
+ant colony optimization,1
+software project scheduling problem,1
+glass,1
+classifier performance,1
+data compression techniques,1
+data encryption,1
+optimal performance,1
+enhancement,1
+ik-means,1
+uselm,1
+medical applications,1
+medical computing,1
+biomedical applications,1
+biomedical data,1
+biomedical systems,1
+clinical practices,1
+conventional processing,1
+data analytics,1
+telehealth system,1
+gaussian distribution,1
+ellipse fitting,1
+elliptical path,1
+gaussians,1
+infant mortality,1
+urban areas,1
+fire extinguishers,1
+fire fighting equipment,1
+fires,1
+robot programming,1
+continuous map,1
+fire fighting robots,1
+grid map,1
+markov decision,1
+robot planning,1
+wall following,1
+artificial neural network classifiers,1
+feal growth,1
+heart disease,1
+usg,1
+approximation,1
+boosting,1
+fetal organ,1
+fetal organ detection,1
+fetal parameters measurement,1
+boosting classifiers,1
+fetal organs,1
+kappa coefficient,1
+shape approximation,1
+ultrasonic imaging,1
+biparietal diameters,1
+degree of noise,1
+head circumferences,1
+image datasets,1
+ultrasound imaging,1
+multilayers,1
+automated systems,1
+moment features,1
+scale invariant,1
+segmentation performance,1
+correlation ratio,1
+human colorectal carcinomaa,1
+metastasis,1
+data communication equipment,1
+community perceptions,1
+moving algorithms,1
+object localization,1
+suspicious objects,1
+aircraft,1
+detectors,1
+ada boost classifiers,1
+average errors,1
+military surveillance,1
+quad rotors,1
+security application,1
+complex procedure,1
+intuitive control systems,1
+intuitive controls,1
+learning curves,1
+tele-operations,1
+anthropomorphic robots,1
+biomedical signal processing,1
+flvq-pso,1
+fn-glvq,1
+disaster robots,1
+mobile robot sensor network,1
+quadrotor,1
+distributed constraint satisfaction problem,1
+adaptive control systems,1
+embedded systems,1
+nanosensors,1
+object detection,1
+video cameras,1
+adaptive traffic signal control,1
+community development,1
+important features,1
+optimal cycle time,1
+social stability,1
+online incremental learning,1
+task runtime prediction,1
+adaptive tracking,1
+highway videos,1
+budget distribution,1
+coarse-grained billing period,1
+task-based,1
+data transfer,1
+compressed datum,1
+compression methods,1
+compression performance,1
+data framework,1
+hadoop frameworks,1
+percentage root-mean-square differences,1
+set partitioning in hierarchical tree,1
+spiht coding,1
+bandpass filters,1
+trajectories,1
+estimation results,1
+low frame rate video,1
+size and shape,1
+sperm motility,1
+sperm tracking,1
+video sequences,1
+image coding,1
+bukalapak,1
+ecommerce,1
+mitra bukalapak,1
+msme,1
+o2o,1
+traditional shops,1
+flip.id,1
+free,1
+interbank transfer,1
+directorate general of taxes,1
+it leadership,1
+transformation of the role of it,1
+collaboration,1
+negative online review,1
+popular product,1
+marketplace website,1
+c2c marketplace,1
+open trip,1
+individual,1
+energy,1
+information security management,1
+iso 27001,1
+oil and gas,1
+self-efficacy,1
+technical support,1
+travel agency information system (tais),1
+unified theory of acceptance and use of technology (utaut),1
+user interface,1
+collaborative consumption,1
+chen framework,1
+e-business strategy,1
+customer experience,1
+customer sharing intention,1
+customer shoping intention,1
+social commerce constructs,1
+behavioural intention,1
+customization,1
+intrusiveness,1
+location-based advertising (lba),1
+permission,1
+sales promotion,1
+smartpls 2.0,1
+analysis of variance,1
+anova,1
+large organisations,1
+medium organisations,1
+small and medium sized enterprise,1
+small organisations,1
+enterprise content management system,1
+logistics,1
+management system,1
+marine,1
+agreeableness,1
+five factor model (ffm),1
+knowledge management system (kms),1
+neurocistism,1
+openness,1
+personality,1
+insurance,1
+business environments,1
+customer knowledge,1
+insurance companies,1
+insurance industry,1
+mobile security,1
+regulatory compliance,1
+case study approach,1
+credit card frauds,1
+credit cards,1
+international standards,1
+on-line payment,1
+payment card industries,1
+security audit,1
+data maturity assessment,1
+flylist,1
+hesa,1
+iata,1
+james m. barker,1
+ota,1
+implementation impact,1
+procurement personnel performance,1
+public procurementplan,1
+cost engineering,1
+laboratories,1
+business modeling,1
+laboratory information management system,1
+laboratory management,1
+laboratory testing,1
+non-functional requirements,1
+rational unified process,1
+reconfiguration process,1
+testing laboratories,1
+application development,1
+iteration planning,1
+standard operating procedures,1
+design quality,1
+object oriented metrics,1
+inversion,1
+normal basis,1
+fpga.,1
+polynomial basis,1
+karatsuba,1
+2d-spiht,1
+encryption,1
+secure iot (sit) algorithm,1
+digital arithmetic,1
+algorithm accuracies,1
+computation ability,1
+floating point numbers,1
+multiplication algorithms,1
+number representation,1
+resource consumption,1
+sensors and actuators,1
+bag-of-visual-words,1
+embryo quality,1
+human embryo,1
+mouse embryos,1
+subjective assessments,1
+binomial division,1
+cordic,1
+generalized extreme student deviate (gesd),1
+non restoring division,1
+outliers,1
+square root,1
+blackman window,1
+electroencephalography (eeg),1
+finite impulse response,1
+signal filtering,1
+windowing methods,1
+earthquake,1
+class cohesion,1
+high-level design,1
+object-oriented,1
+refactoring,1
+software quality,1
+adaptive random testing,1
+centroid,1
+random testing,1
+test case,1
+compression ratio (machinery),1
+compression algorithms,1
+compression scheme,1
+hardware devices,1
+set partitioning in hierarchical trees algorithms,1
+indium compounds,1
+automatic method,1
+embryo development,1
+embryo transfer,1
+parameter spaces,1
+time-lapse microscopy,1
+filtering algorithm,1
+if there are,1
+navigation devices,1
+smartphones,1
+ahp method,1
+metric values,1
+object oriented software,1
+object-oriented software designs,1
+promethee,1
+promethee method,1
+quality factors,1
+computer software selection and evaluation,1
+human heart,1
+open problems,1
+mit-bih,1
+physionet,1
+wavelet transforms,1
+living systems studies,1
+automation tools,1
+building automation,1
+chlorinated solvent,1
+daily tasks,1
+dry cleaners,1
+liver images,1
+permanent damage,1
+daily use,1
+hardware implementations,1
+wavelet features,1
+open dynamic engine,1
+real life scenario,1
+subgroup,1
+chemical concentrations,1
+local gradients,1
+multisources,1
+odor sources,1
+physical modeling,1
+searching performance,1
+subgroup method,1
+wind velocities,1
+models,1
+anemotaxis,1
+chemotoxis,1
+mpso,1
+ogr,1
+brand attachment,1
+brand satisfaction,1
+ewom referral,1
+lisrel 8.80,1
+purchase decision,1
+reputation,1
+value chain analysis,1
+express delivery,1
+interdependent self-construal,1
+photo/video contest campaign,1
+self-construal,1
+social media marketing,1
+editor,1
+infographics,1
+business functions,1
+deployment diagrams,1
+enterprise resource planning systems,1
+entity relationship diagrams,1
+generic process models,1
+use case diagram,1
+and e-commerce,1
+brand awareness,1
+internet memes,1
+virality,1
+delivery-sourcing,1
+loyalty,1
+m-s-qual,1
+social feature,1
+social recommendation,1
+social user,1
+functional requirements,1
+health information system (his),1
+primary health care (phc),1
+types of information,1
+attachment theory,1
+cognitive evaluation theory,1
+indonesia tourism,1
+theory of planned behavior,1
+brand affect,1
+brand community,1
+brand loyalty,1
+cb-sem,1
+customer-centric,1
+type of information,1
+user motivation,1
+entropy technique,1
+customer fulfilment,1
+new product development,1
+product differentiation,1
+product quality,1
+speed to market,1
+maturity level model,1
+km infrastructures,1
+km processes,1
+election,1
+electronic voting,1
+jembrana,1
+customer support,1
+financial resources,1
+market share,1
+marketing campaign,1
+marketing strategy,1
+online marketing,1
+bpmn,1
+business process repository,1
+graphical querying,1
+xpdl,1
+xquery,1
+knowledge audit,1
+ict roles,1
+organisational capabilities,1
+informatics,1
+national report,1
+olympiad,1
+secondary education,1
+burrows-wheeler transformation,1
+move-to-front,1
+recency ranking,1
+text compression,1
+backward wave tubes,1
+arithmetic coders,1
+based modelling,1
+compression mechanism,1
+resource costs,1
+text compressions,1
+block codes,1
+sorting,1
+arithmetic coder,1
+huffman coder,1
+move-to-front transform,1
+parsing,1
+run-length coding,1
+gradient boost,1
+regularization,1
+mobile sms,1
+multiclass,1
+spam,1
+long short-term memories,1
+copula,1
+bahasa indonesia,1
+qa systems,1
+semantic analysis,1
+budgeting,1
+financial government institution,1
+sap bpc,1
+online social network,1
+alerts,1
+events,1
+interfaces,1
+it infrastructure,1
+lean,1
+network elements,1
+nodes,1
+digital library,1
+nosql database,1
+iptv networks,1
+ipv6 networks,1
+multicast flow,1
+multicast routing,1
+number of subscribers,1
+packet header,1
+qos mechanisms,1
+simulation result,1
+hydraulics,1
+internet protocols,1
+iptv,1
+multicasting,1
+dataset,1
+extractive summarization,1
+speech processing,1
+competitive performance,1
+dialogue systems,1
+general knowledge,1
+language understanding,1
+multitask learning,1
+filling,1
+integer programming,1
+ai systems,1
+integer linear programs,1
+process knowledge,1
+real world situations,1
+role assignment,1
+semantic role labeling,1
+sentence level,1
+heuristic approach,1
+html documents,1
+web crawlers,1
+web document,1
+search engines,1
+usability engineering,1
+asynchronous methods,1
+conventional methods,1
+empirical studies,1
+test scenario,1
+testing process,1
+usability problems,1
+usability testing methods,1
+customer satisfaction dimensions,1
+citation network,1
+directed network,1
+linkrank algorithm,1
+internet topology,1
+ad-hoc,1
+traffic,1
+attacks,1
+securityissues,1
+vulnerability,1
+web applicationt,1
+f5 algorithm,1
+image genre,1
+steganographic capacity,1
+steganography,1
+complex learning,1
+faster convergence,1
+model accuracy,1
+neural network model,1
+neural networks model,1
+specific learning,1
+deep neural networks,1
+delphi,1
+mitigation,1
+multipath routing protocol aodv,1
+sinkhole attack,1
+wsn,1
+accuracy,1
+mobile positioning data,1
+tourism statistics,1
+research challenge,1
+smart campus,1
+summary,1
+digital certificate,1
+microarray,1
+ddos attack,1
+detector systems,1
+distributed denial of service,1
+incoming packets,1
+margin of error,1
+multiple computers,1
+service requesters,1
+denial-of-service attack,1
+cancer subtype,1
+human colorectal,1
+malignancy,1
+delegating responsibilities,1
+organizational structure,1
+cyber security awareness,1
+inter-organizational knowledge sharing,1
+leadership,1
+rewards,1
+box counting,1
+coefficient,1
+coiflet,1
+daubechies wavelet,1
+symlets,1
+distributed denial-of-service attack,1
+simulation,1
+application layer classification,1
+firewall,1
+l7-filter,1
+netfilter/iptables,1
+real time messaging protocol,1
+handwritten signature,1
+line segmentation,1
+off-line verification,1
+on-line verification,1
+rule-based,1
+thinning,1
+c (programming language),1
+congestion control (communication),1
+telecommunication control,1
+cell loss,1
+queuing routines,1
+resource management simulator,1
+asynchronous transfer mode,1
+advanced traffic management systems,1
+computer aided analysis,1
+atm-based networks,1
+buffer space,1
+guaranteed quality,1
+multi-media,1
+multi-media sources,1
+reservation protocols,1
+variable bit rate,1
+computer aided network analysis,1
+data communication systems,1
+local area networks,1
+multiplexing,1
+queueing theory,1
+telecommunication services,1
+fast reservation protocols,1
+long burst trip delay,1
+multimedia sources,1
+multiplexing capability,1
+queuing models,1
+short round trip delay,1
+statistical multiplexing,1
+frequency allocation,1
+probability,1
+switching theory - asynchronous sequential logic,1
+telecommunication - traffic,1
+atm networks,1
+blocking probability,1
+broadband isdn,1
+congestion control,1
+preventive congestion control,1
+reactive congestion control,1
+digital communication systems,1
+patient treatment,1
+after-treatment,1
+class i,1
+correlation tests,1
+orthodontic treatments,1
+soft tissue,1
+wilcoxon test,1
+dentistry,1
+ecology,1
+ecosystems,1
+formal methods,1
+ecological systems,1
+ecosystem dynamics,1
+modelling and analysis,1
+modelling and simulations,1
+animals,1
+water resources,1
+dynamic guiding,1
+dynamic paths,1
+grazing areas,1
+grid of cells,1
+national parks,1
+origin and destinations,1
+rewriting systems,1
+seasonal migration,1
+population dynamics,1
+maximally parallel,1
+natural process,1
+population model,1
+stochasticity,1
+temperature changes,1
+open systems,1
+cyclegan,1
+face image,1
+face sketch,1
+synthesize,1
+translation,1
+facial image,1
+image-to-image translation,1
+model evaluation,1
+facial components analysis,1
+geometric feature extraction,1
+inference,1
+learning algorithm,1
+facial component analysis,1
+fuzzy rule based system,1
+fuzzy emotion,1
+fuzzy system,1
+facial expression dataset,1
+mixed emotion,1
+apprentices,1
+man machine systems,1
+facial expressions,1
+human emotion,1
+multimedia contents,1
+multimedia development,1
+research teams,1
+engineering research,1
+contrast limited adaptive histogramequalization,1
+nonlinear fuzzyrobust pca,1
+mix emotion recognition,1
+sequence classifier,1
+svm-crf classifier,1
+fuzzy c-means,1
+is-faddis,1
+sparse clustering,1
+text interpretation,1
+sequential classifier,1
+structured learning,1
+generalized procrustes analysis,1
+normalization,1
+2-means clustering,1
+keyphrase,1
+preprocessing,1
+tf-idf,1
+back-propagation-nn,1
+ecg biometrics,1
+elementary operations,1
+matrix theory,1
+numerical experiments,1
+q r decomposition,1
+update,1
+background variance,1
+convex optimization,1
+detail variance,1
+rank minimization,1
+robust principal component analysis (robust pca),1
+awards and prizes,1
+graduate students,1
+two approaches,1
+russian bibliography,1
+subject headings,1
+worldcat,1
+research fund,1
+research quality,1
+scientific articles,1
+distribution,1
+multiple sensitive attributes,1
+p-sensitive,1
+sensitive valu,1
+multivariate,1
+radial basis function network,1
+computer science.,1
+industrial revolution,1
+industry 4.0,1
+bibliographies,1
+harvesting,1
+bibliography datum,1
+computer library,1
+data and information,1
+multi-thread,1
+multi-threading,1
+visual studios,1
+web crawling,1
+document vector representation,1
+news identification,1
+phrase detection,1
+land cover classification of rsni-1 national standardization body of indonesia,1
+maximum-likelihood classification,1
+supervised classification,1
+indonesian bibliography,1
+library of things,1
+co-location patterns mining,1
+event-centric model,1
+postgis,1
+spatial database,1
+automatic information extraction,1
+candidate generation,1
+domain information extraction,1
+processing capability,1
+airport,1
+land cover classification sni 7645 national standardization body,1
+maximum hashtag,1
+maximum term,1
+uncertainty,1
+extend words,1
+hidden markov model k-means,1
+tfidf model,1
+focused web crawler,1
+multi thread,1
+proxy,1
+web hierarchies,1
+deflection (structures),1
+loads (forces),1
+hybrid waves,1
+steady state deflection,1
+water waves,1
+evolutionary algorithm,1
+filter,1
+2d ensem ble,1
+distributed,1
+hom ogeneous,1
+data association,1
+multi object tracking,1
+network flow,1
+dynamic model,1
+fast motion,1
+vehicle tracking,1
+aomdv,1
+end to end delay,1
+packet delivery ratio,1
+road safety,1
+routing protocol,1
+adaptive fourier decomposition,1
+instantaneous frequency,1
+blood pressure,1
+car driver,1
+drowsiness,1
+heart rate,1
+measurement tool,1
+deep belief network (dbn),1
+dimensionality reduction method,1
+intelligent transportation systems,1
+invariant feature transforms,1
+support vector machine method,1
+ensemble learning,1
+spark (key words),1
+parallelization,1
+spectroscopy,1
+dimensional reduction,1
+extracting information,1
+high dimensional data,1
+new dimensions,1
+spectral dimensions,1
+feature selection greedy stepwise,1
+microrna,1
+capacity building,1
+international collaboration,1
+system building,1
+teleecg,1
+teleusg,1
+blood vessels,1
+cardiovascular system,1
+high level languages,1
+as distribution,1
+fpga implementations,1
+wearable devices,1
+genes,1
+apnea detection,1
+cost-sensitive learning,1
+machine learning problem,1
+particular distribution,1
+synthetic minority over-sampling techniques,1
+bayesian networks,1
+accurate tracking,1
+bayesian approaches,1
+bayesian perspective,1
+evolutionary optimizations,1
+filter algorithm,1
+particle markov chain monte carlo,1
+visual tracking algorithm,1
+energy-potentials,1
+feature vectors,1
+loss functions,1
+missing values,1
+parameterized,1
+structured supports,1
+2d,1
+digital measurement,1
+par index system,1
+jaccard index,1
+multiple instance learning,1
+weakly supervised learning,1
+human sperm cell tracking,1
+arc segment,1
+arcpso,1
+ivf,1
+afnglvq,1
+predictive coding,1
+spiht,1
+classifier learning,1
+google images,1
+saliency filter,1
+ignore gbest 1,1
+ignore gbest 2,1
+time consumption,1
+wind dynamic,1
+blastomere,1
+edcircles,1
+ransac,1
+modified pso,1
+multiple robots,1
+parallel localization,1
+affine transformation,1
+geometric computing,1
+motorcycle,1
+nonretinotopic,1
+averaged class accuracy,1
+knowledge-compatibility benchmarker,1
+vision-based knowledge,1
+dynamic models,1
+target tracking,1
+average numbers,1
+dynamics models,1
+efficiency measurement,1
+kullback-leibler distance,1
+posterior distributions,1
+underlying distribution,1
+visual object tracking,1
+sampling,1
+dimensional parameters,1
+ellipse hough transforms,1
+gain performance,1
+major axis,1
+accuracy rate,1
+fuzzy neuro,1
+learning methods,1
+multi modal function,1
+number of iterations,1
+proportional change,1
+sinusoidal functions,1
+social components,1
+check points,1
+gps traces,1
+map matching,1
+smart mobile phones,1
+two parts,1
+mobile phones,1
+cellular telephones,1
+approximation results,1
+speckle reducing anisotropic diffusion,1
+speed improvement,1
+synthetic images,1
+voting mechanism,1
+ultrasonics,1
+average delay,1
+electrocardiograph signals,1
+highly-portable,1
+random forest algorithm,1
+single-board computers,1
+heart beat detections,1
+original algorithms,1
+sigmoid membership functions,1
+sleep cycles,1
+circadian rhythms,1
+critical traffic,1
+modeling methodology,1
+real time traffics,1
+saturation flow,1
+traffic controllers,1
+mahalanobis distances,1
+noisy data,1
+second phase,1
+arrhytmia,1
+classification performance,1
+discriminant functions,1
+pivot point,1
+distributed traffic light control,1
+principle component analysis,1
+recognition methods,1
+traffic conditions,1
+traffic light,1
+traffic systems,1
+backpropagation algorithms,1
+codebook,1
+electronic nose,1
+fuzzy learning vector quantization,1
+odor,1
+electronic nose systems,1
+fuzzy theory,1
+measurement data,1
+neural network systems,1
+pso(particle swarm optimization),1
+quartz resonators,1
+recognition probability,1
+recognition systems,1
+resonance frequencies,1
+artificial organs,1
+communication channels (information theory),1
+oxide minerals,1
+resonance,1
+sensory aids,1
+modified niche pso,1
+biometrics,1
+dynamic advection,1
+odor gated rheotaxis (ogr),1
+advection,1
+chlorine compounds,1
+computational fluid dynamics,1
+diffusion,1
+mechanisms,1
+semiconductor doping,1
+turbulent flow,1
+change-detection,1
+dynamic bit matching,1
+dynamic problems,1
+multi peaks,1
+new algorithm,1
+odor dispersion,1
+odor sensors,1
+particle swarm optimizations,1
+positioning errors,1
+real-world environments,1
+real-world problems,1
+robot behaviors,1
+speed limitation,1
+two types,1
+odor control,1
+modification particle swarm optimization,1
+turbulent transport,1
+unidirectional air stream,1
+acoustic noise,1
+collision avoidance,1
+dynamic analysis,1
+sensor networks,1
+global positioning system,1
+dynamic advection diffusion environment,1
+fuzzy-neuro learning vector quantization (fnlvq),1
+matrix similarity analysis (msa),1
+multiple quartz-resonator sensors,1
+neural networks (nns),1
+fragrances,1
+natural frequencies,1
+optical sensors,1
+probabilistic logics,1
+hardware systems,1
+probabilistic neural networks (pnn),1
+source localization,1
+electronic odor,1
+fnlvq,1
+neural-netwok,1
+odor-sensing technology,1
+mixtures,1
+multiple quartz-resonantor sensors,1
+sensing systems,1
+circuits,1
+cost function,1
+frequency,1
+neurons,1
+sensor systems,1
+animal behavior,1
+chemical hazards,1
+electronic noses,1
+gas detectors,1
+leak detection,1
+probes,1
+radio frequency,1
+fuzzy control,1
+multilayer perceptrons,1
+optimization methods,1
+process control,1
+fuzzy lvq,1
+artificial odor recognition systems,1
+fuzzy learning vector quantization (flvq) neural networks,1
+data governance structure,1
+dmbok framework,1
+pdca lifecycle.,1
+stanford maturity model,1
+customer data protection,1
+hais-q,1
+information security awareness.,1
+indonesia deposit insurance corporation,1
+digital telecommunication,1
+telkom indonesia,1
+digital business,1
+omni-channel,1
+utaut2,1
+digital startup,1
+minimum viable product,1
+mvp,1
+startup,1
+online motorcycle taxi,1
+partial least square-structural equation modeling,1
+personal data,1
+personal data protection,1
+extended deterrence theory,1
+misuse of mobile application,1
+ride-hailing,1
+ride-sharing,1
+business model innovation,1
+startup continuity,1
+startup platform,1
+startup sustainability,1
+public service,1
+strategic planning for information systems,1
+cobit,1
+strategic is planning,1
+edc,1
+kimball,1
+merchant acquirer,1
+ansi/bicsi-002,1
+data center management ansi/tia-942,1
+guidelines,1
+energy and mineral resources,1
+enterprise archtecture,1
+memr,1
+software,1
+sstc,1
+internal reliabilities,1
+information system architecture,1
+oil and gas upstream industry,1
+it project management,1
+kerzner's project management maturity measurement,1
+pmmm,1
+project management maturity level,1
+information security awareness measurement,1
+kab model,1
+knowledge attribute behavior model,1
+sub-certification authority,1
+ietf,1
+isoc,1
+rfc,1
+ttat,1
+internet protocol,1
+ip,1
+ipv4,1
+transition,1
+transition method,1
+capability level,1
+capabilities level,1
+secretariat general of the indonesian house of representatives,1
+iso 27002,1
+iso 27005,1
+e-government component,1
+area-based,1
+strategic role,1
+public key cryptography,1
+certification authorities,1
+public-key infrastructure,1
+regional government,1
+engineering education,1
+association rule discovery,1
+compact data structure,1
+data structure design,1
+fp growths,1
+frequent pattern discovery,1
+frequent pattern mining,1
+running time,1
+test data,1
+confidence threshold,1
+database coverage pruning,1
+entropy-based descretization,1
+pruning patterns,1
+frequent itemsets,1
+knowledge discovery,1
+parallel programming,1
+shape memory effect,1
+cluster environments,1
+data parallel programs,1
+further works,1
+large database,1
+minimum support,1
+parallel program,1
+parameter setting,1
+dense datasets,1
+master-slave scheme,1
+parallel programs,1
+apriori algorithms,1
+dense datum,1
+mining frequent itemsets,1
+pattern growth,1
+prefix trees,1
+processing time,1
+algebraic specification,1
+association rule queries,1
+constrained association queries,1
+nested relational algebra,1
+query trees,1
+c4.5,1
+hadith,1
+crowdsourcing,1
+data collecting,1
+classification multi-format object,1
+lebak regency government,1
+ward & peppard,1
+small business,1
+stage,1
+cidoc-crm,1
+indonesia's cultural heritage,1
+concept-based mir,1
+content-based mir,1
+context-based mir,1
+electronic documentation,1
+nursing,1
+remanufacturing,1
+knowledge-ability categories,1
+knowledge-ability factor,1
+step-function,1
+effectiveness and efficiency,1
+nursing care documentation,1
+nursing information system,1
+standard-based education,1
+sisp categories,1
+sisp classification,1
+sisp collaborative framework,1
+strategic information system planning,1
+emerging economy,1
+internationalization,1
+hypothetical validation,1
+open learning,1
+visual feature,1
+ict acceptance,1
+ict adoption,1
+ict implementation,1
+ict integration,1
+ict penetration,1
+ict usability,1
+ict usage,1
+cloud education,1
+e-education,1
+cloud-based e-learning,1
+e-learning systems,1
+effectiveness and efficiencies,1
+learning activity,1
+adoption level,1
+student-to-computer ratio,1
+digital preservation,1
+geographical area,1
+integrated approach,1
+natural history,1
+research progress,1
+research results,1
+seamless integration,1
+integrated control,1
+stress intensity factors,1
+historic preservation,1
+erp implementation approach,1
+erp life cycle,1
+key success factors (ksfs),1
+step-wise approach,1
+implementation approach,1
+erp implementation,1
+strategical impact,1
+tactical impact,1
+crc,1
+error detection,1
+extension header,1
+network latency,1
